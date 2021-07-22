@@ -28,7 +28,7 @@ class Markdown extends React.Component {
 	render() {
 		if (this.state.content) {
 			return (
-				<ReactMarkdown rehypePlugins={[rehypeRaw]} source={this.state.content} escapeHtml={false} {...this.props} />
+				<ReactMarkdown rehypePlugins={[rehypeRaw]} children={this.state.content} {...this.props} />
 			);
 		}
 
