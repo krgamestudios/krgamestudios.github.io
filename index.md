@@ -14,6 +14,7 @@ Here's a quick list of my current and past projects until I get things in order 
 * [Candy Raid: The Factory](https://candyraid.com)
 * [Potion School](https://www.drivethrucards.com/product/305213/Potion-School)
 * [Fiends, Foils & Fallen](https://www.wargamevault.com/product/398072/Fiends-Foils--Fallen)
+* [sineQL](https://github.com/Ratstail91/sineQL)
 
 Each of these will receive their own pages on this site very soon.
 
