@@ -4,7 +4,7 @@ layout: default
 
 Hello world!
 
-Time for a new wepage theme - this time, brought to you by GitHub Pages!
+Time for a new website theme - this time, brought to you by GitHub Pages!
 
 Here's a quick list of my current and past projects until I get things in order here:
 
