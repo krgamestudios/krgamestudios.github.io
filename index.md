@@ -23,11 +23,11 @@ If you want to contact me, you can do so at [krgamestudios@gmail.com](mailto:krg
 
 ## Community
 
-* Discord - https://discord.gg/7BFyaEgE5b
-* Twitter - https://twitter.com/KRGameStudios
-* GitHub - https://github.com/krgamestudios
-* Waterlogged (Game Jam) - https://bunnytrail.itch.io/waterlogged
-* Keep It Alive (Game Jam) - https://ratstail91.itch.io/keep-it-alive
-* Mementos (Game Jam) - https://ratstail91.itch.io/mementos
+* [Discord](https://discord.gg/7BFyaEgE5b)
+* [Twitter](https://twitter.com/KRGameStudios)
+* [GitHub](https://github.com/krgamestudios)
+* [Waterlogged (Game Jam Submission)](https://bunnytrail.itch.io/waterlogged)
+* [Keep It Alive (Game Jam Submission)](https://ratstail91.itch.io/keep-it-alive)
+* [Mementos (Game Jam Submission)](https://ratstail91.itch.io/mementos)
 
 
