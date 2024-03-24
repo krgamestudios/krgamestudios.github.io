@@ -4,3 +4,4 @@ plugins:
 title: KR Game Studios
 description: Making Games on a Shoestring Budget
 logo: logo_400x400.png
+show_downloads: false
