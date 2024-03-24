@@ -4,7 +4,9 @@ layout: default
 
 Hello world!
 
-I'm Kayne Ruse, an independent game developer, making both video and tabletop games. I've been making games since I was a kid (20 years now!), and I plan to keep going, no matter what. I've worked with several small ad-hoc teams over the years, and I've always made games with minimal budgets - hence my motto: Making games on a shoestring budget.
+I'm Kayne Ruse, an independent game developer, making both video and tabletop games.
+
+I've been making games since I was a kid (20 years now!), and I plan to keep going, no matter what. I've worked with several small ad-hoc teams over the years, and I've always made games with minimal budgets - hence my motto: **Making games on a shoestring budget**.
 
 If you want to contact me, you can do so at [krgamestudios@gmail.com](mailto:krgamestudios@gmail.com)
 
