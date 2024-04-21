@@ -14,7 +14,7 @@ If you want to contact me, you can do so at [krgamestudios@gmail.com](mailto:krg
 
 * [Egg Trainer](https://eggtrainer.com) (down for maintenance)
 * [Potion School](https://www.drivethrucards.com/product/305213/Potion-School)
-* [Candy Raid: The Factory](https://candyraid.com)
+* [Candy Raid: The Factory](https://candyraid.com) (whoops server died, am fixing it)
 * [Fiends, Foils & Fallen](https://www.wargamevault.com/product/398072/Fiends-Foils--Fallen)
 
 ## Software
