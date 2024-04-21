@@ -10,6 +10,10 @@ I've been making games since I was a kid (20 years now!), and I plan to keep goi
 
 If you want to contact me, you can do so at [krgamestudios@gmail.com](mailto:krgamestudios@gmail.com)
 
+## Current Project/Prototype
+
+* ["Curses and Blessings" Tabletop Roleplaying Game](https://gitea.krgamestudios.com/Ratstail91/curses-and-blessings)
+
 ## Games
 
 * [Egg Trainer](https://eggtrainer.com) (down for maintenance)
@@ -32,4 +36,8 @@ If you want to contact me, you can do so at [krgamestudios@gmail.com](mailto:krg
 * [Keep It Alive (Game Jam Submission)](https://ratstail91.itch.io/keep-it-alive)
 * [Mementos (Game Jam Submission)](https://ratstail91.itch.io/mementos)
 
+## Support Me
+
+* [Patreon](https://www.patreon.com/krgamestudios)
+* [Ko-fi](https://ko-fi.com/krgamestudios)
 
