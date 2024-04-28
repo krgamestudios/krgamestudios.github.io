@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<p style="font-weight: bold;color:red">Notice: My domain name is stuck in limbo right now, and I'm not sure when it will be restored... I'm using a different domain that was unused for the time being. c’est la vie.<p>
+
 Hello world!
 
 I'm Kayne Ruse, an independent game developer, making both video and tabletop games.
@@ -12,7 +14,7 @@ If you want to contact me, you can do so at [krgamestudios@gmail.com](mailto:krg
 
 ## Current Project/Prototype
 
-* ["Curses and Blessings" Tabletop Roleplaying Game](https://gitea.krgamestudios.com/Ratstail91/curses-and-blessings)
+* ["Curses and Blessings" Tabletop Roleplaying Game](https://gitea.decadejam.com/Ratstail91/curses-and-blessings)
 
 ## Games
 
