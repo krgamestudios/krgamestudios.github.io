@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<span style="font-weight: bold;color:red">Notice: My domain name is stuck in limbo right now, and I'm not sure when it will be restored... I'm using a different domain that was unused for the time being. c’est la vie.</span>
-
 Hello world!
 
 I'm Kayne Ruse, an independent game developer, making both video and tabletop games.
