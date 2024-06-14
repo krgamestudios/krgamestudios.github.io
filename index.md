@@ -12,7 +12,7 @@ If you want to contact me, you can do so at [krgamestudios@gmail.com](mailto:krg
 
 ## Current Project/Prototype
 
-* ["Curses and Blessings" Tabletop Roleplaying Game](https://gitea.decadejam.com/Ratstail91/curses-and-blessings)
+* ["Curses and Blessings" Tabletop Roleplaying Game](https://gitea.krgamestudios.com/Ratstail91/curses-and-blessings)
 
 ## Games
 
