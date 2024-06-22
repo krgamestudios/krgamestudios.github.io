@@ -8,7 +8,7 @@ I've been making games since I was a kid (20 years now!), and I plan to keep goi
 
 If you want to contact me, you can do so at [krgamestudios@gmail.com](mailto:krgamestudios@gmail.com)
 
-## Games (The Good Ones)
+## Games
 
 * [Egg Trainer](https://eggtrainer.com) (down for maintenance)
 * [Potion School](https://www.drivethrucards.com/product/305213/Potion-School)
