@@ -10,9 +10,9 @@ If you want to contact me, you can do so at [krgamestudios@gmail.com](mailto:krg
 
 ## Games
 
-* [Egg Trainer](https://eggtrainer.com) (down for maintenance)
 * [Potion School](https://www.drivethrucards.com/product/305213/Potion-School)
-* [Candy Raid: The Factory](https://candyraid.com) (whoops server died, am fixing it)
+* [Egg Trainer](https://eggtrainer.com) (down, undergoing sale)
+* [Candy Raid: The Factory](https://store.steampowered.com/app/868880/Candy_Raid_The_Factory/)
 * [Fiends, Foils & Fallen](https://www.wargamevault.com/product/398072/Fiends-Foils--Fallen)
 * [Waterlogged (Game Jam Submission)](https://bunnytrail.itch.io/waterlogged)
 * [Keep It Alive (Game Jam Submission)](https://ratstail91.itch.io/keep-it-alive)
