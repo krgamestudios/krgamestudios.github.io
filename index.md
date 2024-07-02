@@ -35,4 +35,5 @@ If you want to contact me, you can do so at [krgamestudios@gmail.com](mailto:krg
 
 * [Patreon](https://www.patreon.com/krgamestudios)
 * [Ko-fi](https://ko-fi.com/krgamestudios)
+* [LinkedIn](https://www.linkedin.com/in/kayne-ruse/)
 
