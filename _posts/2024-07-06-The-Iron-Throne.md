@@ -17,4 +17,18 @@ I'll probably append this post later today with more thoughts on the theme, and 
 
 BTW, since I'm on a raspberry pi, the resulting game will almost certainly be web-based, so downloading a binary won't be required.
 
---- Watch this space ---
+## 8am
+
+Just spent about an hour trying to get aseprite to build from source, no dice. Thankfully, a friend pointed me to [this thing](https://www.pixilart.com/draw), so I guess I'll be using that for this jam. It's quite cathartic deleting code that didn't work lol.
+
+And the jam theme is ***drum roll....***
+
+> ​In honor of me finally finishing my book on RTS design and spending the last two months playing nothing but games managing lots of little guys running around and not following orders. The theme for this game jam is: ​ ​​Managing Mismanagement​
+
+"Managing Mismanagement"?
+
+OK, this is workable.
+
+For game jams, the first hour or so (assuming 48 hour time limits) should usually be spent brainstorming. We've got more time for this one, so I'm gonna start thinking up ideas - some kind of brainstorm, based around the idea of wrangling up a bunch of automata, perhaps?
+
+--- watch this space ---
