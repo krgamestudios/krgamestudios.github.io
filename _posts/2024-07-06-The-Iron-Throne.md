@@ -43,4 +43,8 @@ Here's the link for the [git repo, on my private gitea](https://gitea.krgamestud
 
 So yeah... looks like I'm making an RTS!
 
---- watch this space ---
+# 3:30pm
+
+And I've done nothing but sleep today - the exhaustion of the week has caught up to me again. That's ok, this is a 9-day jam, I'll try again tomorrow.
+
+I'm glad that I at least have an idea, based on the theme.
