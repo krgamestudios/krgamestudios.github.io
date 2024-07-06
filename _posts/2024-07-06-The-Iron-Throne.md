@@ -31,4 +31,16 @@ OK, this is workable.
 
 For game jams, the first hour or so (assuming 48 hour time limits) should usually be spent brainstorming. We've got more time for this one, so I'm gonna start thinking up ideas - some kind of brainstorm, based around the idea of wrangling up a bunch of automata, perhaps?
 
+## 11:15am
+
+I have a terrible sleeping pattern - I'm lucky to have about 6 hours a night. As a side effect, I tend to doze off during the day, especially on weekends. Well, at least I've got an interesting idea now.
+
+Lets say you have a "conveyer belt" on the side of the screen, that reveals up to three "cards" at a time (the card imagery is just an aesthetic). You can click on a building card, then on the game map to place that building, or you could click on the human card, then click on a building, the build a unit there.
+
+At any time, you only have a couple of options, and you need to wait for more to be revealed by the "conveyer belt" - this would pace you out, and potentially prevent you from burning through content, or breaking the expected build speed - basically, clicks per minute are no longer a factor, and you now have more strategic thinking to do - do you hold onto this one unit card, in the hopes that a better building card appears later?
+
+Here's the link for the [git repo, on my private gitea](https://gitea.krgamestudios.com/Ratstail91/Iron-Throne) - no promises for the quality or content, but at least it's there. I tend to push at the end of each session, and sessions are only a couple hours at a time these days.
+
+So yeah... looks like I'm making an RTS!
+
 --- watch this space ---
