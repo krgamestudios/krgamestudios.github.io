@@ -53,7 +53,7 @@ In the middle of 2023, I finished Egg Trainer. By that I mean, I had added all o
 
 Something I hadn't mentioned until now is that I have mental illnesses, including autism and depression, that I still deal with on a daily basis. I'm doing very well lately, but the only way I was able to get through the development of Egg Trainer while retaining my sanity was to take the occasional break. I wouldn't let myself feel guilty about these - but some of them would last a couple months at a time, as I rested and recouperated, occasionally fiddling with small ideas.
 
-The break that started mid-2023 was extremely severe - fro 6 months, I couldn't even look at Egg Trainer, let alone anything else. I didn't code, i didn't design, nothing. In december, I was getting frustrated with my current inability to move on, or return to it. So, on the spur of the moment, I posted a question in the PBBG discord:
+The break that started mid-2023 was extremely severe - for 6 months, I couldn't even look at Egg Trainer, let alone anything else. I didn't code, i didn't design, nothing. In december, I was getting frustrated with my current inability to move on, or return to it. So, on the spur of the moment, I posted a question in the PBBG discord:
 
 Does anyone want to buy Egg Trainer?
 
