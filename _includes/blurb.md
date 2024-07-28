@@ -1,7 +1,3 @@
----
-layout: fragment
----
-
 Hello World! I'm Kayne Ruse, an independent game developer, making both video and tabletop games of all kinds.
 
 I've been making games for 20 years, and was born with a controller in my hand. I've got a lot of practical skills and hands-on experience with my own projects, but no formal work history to match, due to a variety of reasons.
