@@ -2,10 +2,9 @@
 
 <ul>
     <li>
-        <a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a>
-        <p>{{ site.posts.first.excerpt }}</p>
+        <span><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a> - {{ site.posts.first.excerpt }}</span>
     </li>
-    {% for post in site.posts | slice: 1 %}
+    {% for post in site.posts offset:1 %}
     <li>
         <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
