@@ -7,6 +7,8 @@ I can't look at Power Rangers the same anymore. That might seem weird, but as a 
 
 To me, Tommy Oliver was the very definition of cool.
 
+<!--more-->
+
 Jason David Frank, who played Tommy Oliver, died by suicide in 2022 after suffering from depression and other mental issues. Looking back at those old shows and movies, knowing what's coming for that young actor... I just can't look at it the same.
 
 It's weird... I've suffered through depression for a big chunk of my 20s, but I can't remember a lot of it very easy. I do remember that I wouldn't be here if it wasn't for my brother. So yeah, I've been there, in JDF's shoes... I just can't look at it the same.

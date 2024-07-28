@@ -5,6 +5,8 @@ tags: gamedev eggtrainer
 
 The history of Egg Trainer is arguably the history of my life - I've only ever really made games that I personally want to play, and Egg Trainer is no different. I could write a book about my history with Pokemon, gamedev, and gaming in general - but instead, here is a brief summary, to explain how Egg Trainer came to be.
 
+<!--more-->
+
 ## Background
 
 My first Pokemon game was "Pokémon Yellow Version: Special Pikachu Edition" - it was a second hand copy that I played with a second hand Game Boy DMG-001 model (the classic "grey brick" variety), at a time when Pokemon Gold and Silver had already released on the game boy color. It was the only game I owned on the Game Boy, and thanks to the 30+ hour lifespans of the batteries, I must have played for hundreds of hours - long after finishing the game's main story.

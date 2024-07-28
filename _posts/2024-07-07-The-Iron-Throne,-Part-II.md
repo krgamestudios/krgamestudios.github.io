@@ -5,6 +5,8 @@ tags: gamedev gamejam
 
 I figured from [yesterday](/2024/07/06/The-Iron-Throne) that I'd make an RTS where you're wrangling some automata of some kind, and I'd have some kind of limited input interface...
 
+<!--more-->
+
 That was until I started searching through tilesets this morning, and landed on [this awesome looking set](https://secrethideout.itch.io/iso-tactics-tileset-isometric-level-kit) by Secret Hideout:
 
 ![iron throne altar](/assets/2024-07-07-iron-throne-altar.png)

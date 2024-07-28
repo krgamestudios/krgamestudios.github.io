@@ -5,6 +5,8 @@ tags: gamedev pupper
 
 I've recently started on a new project - it feels good to say that - called "Pupper". The idea is to make a parody/commentary of twitter and social media. You'll notice that I refer to that site as twitter, rather than the mono-letter alternative, for various reasons that I won't go into here.
 
+<!--more-->
+
 I'm using Godot - not just because I want to (I do), but also because it's the only game engine that will reasonably run on a Raspberry Pi - I'm currently using an RPI v5 8gb as my desktop, simply because it was the cheapest option, even with all of the bells and whistles. I really hope this can hold out for a year or so, so I'm totally out of debt with some savings once I need to replace it.
 
 Regarding Godot - if you run it with the renderer in compatability mode, then it works just fine. I've recently gained access to a community driven godot port for the Nintendo Switch as well, so while I'll need Windows for Nintendo's SDK, I'll at least be able to experiment with that eventually.

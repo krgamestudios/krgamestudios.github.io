@@ -7,6 +7,8 @@ OK, first: Unless you have personally gone from what amounts to a torture device
 
 Fair to say, despite being awake at 6am, I'm in a good mood.
 
+<!--more-->
+
 Now, to the topic at hand: In about 2 hours, a game jam will begin, called [The Game Wisdom Game Jam Volume 4](https://itch.io/jam/the-game-wisdom-game-jam-volume-4) - I've been looking forward to joining this one, as it's run by a (relatively) small-time YouTuber, who's managed to cultivate a good little community. The only major problem I can foresee is that the past themes have been... less than ideal - either too specific, or not open enough to work with.
 
 It'll be good for me to finish a game, after spending so much time wrapping up Egg Trainer for sale - I think we might finally be getting close there, but without a solid end date, it's hard to say.
