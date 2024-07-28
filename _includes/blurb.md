@@ -1,4 +1,5 @@
 ---
+layout: fragment
 ---
 
 Hello World! I'm Kayne Ruse, an independent game developer, making both video and tabletop games of all kinds.

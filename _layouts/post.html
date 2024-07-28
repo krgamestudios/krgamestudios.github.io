@@ -1,5 +1,5 @@
 ---
-layout:
+layout: default
 ---
 
 <small>{{ page.date | date: "%-d %B %Y" }}</small>
@@ -12,3 +12,5 @@ layout:
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}
+
+<!-- this content is injected into default.html, and becomes the individual post pages -->
