@@ -6,7 +6,7 @@ author: Kayne Ruse (Ratstail91)
 timezone: Australia/Sydney
 remote_theme: pages-themes/minimal@v0.2.0
 excerpt_separator: <!--more-->
-show_drafts: true
+#show_drafts: true
 
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
