@@ -2,7 +2,7 @@
 
 <ul>
     <li>
-        <span><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a> - {{ site.posts.first.excerpt }}</span>
+        <span><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a><span> - {{ site.posts.first.excerpt }}</span></span>
     </li>
     {% for post in site.posts offset:1 %}
     <li>
