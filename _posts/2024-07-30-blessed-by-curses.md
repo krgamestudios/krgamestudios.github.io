@@ -78,5 +78,5 @@ My biggest concern, as weird as it sounds, is that this has been getting nothing
 
 Comments and critique are always welcome - please, be brutal.
 
-https://gitea.krgamestudios.com/Ratstail91/curses-and-blessings
+[https://gitea.krgamestudios.com/Ratstail91/curses-and-blessings](https://gitea.krgamestudios.com/Ratstail91/curses-and-blessings)
 
