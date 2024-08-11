@@ -41,6 +41,5 @@ For the time being, I'm going to only focus on the code, and leave the documenta
 
 I'm going to take my time for now and work on this for fun - which seems to be the best way to see something to completion, at least for me. Feedback and contributions are welcome!
 
-<span align="center">
-  <a href="https://github.com/Ratstail91/Toy"><img src="assets/toylang-preview.png" /></a>
-</span>
+[![toylang preview](/assets/toylang-preview.png)](https://github.com/Ratstail91/Toy)
+
