@@ -32,7 +32,8 @@ I find it kind of fascinating that the same tool was used, and nobody noticed it
 
 Before I finish, I should mention that I have read Akihito's other notable work, the one-shot "From Star Strings". While it is a beautiful work of art, I didn't mention it above, as it doesn't have quite the same parallels. Kaoru, a young girl with no memory of her mysterious past (hey, wait a minute!), sets out on an adventure... but the story is presented as a fairy tale itself, rather than using a diegetic fairy tale for world building. She also lacks the "active" personalities of Jiwa, Rokka and Riko, instead seeming more reserved - possibly due to her isolation throughout the story.
 
-Anyway, I should wrap this up here. Made in Abyss was adapted into an anime, which was an amazing adaptation, and a pretty decent video game (the first 3 hours retells part of the main story - stick it out until you get to your custom character, and it's actually quite good). I'm currently looking forward to chapter 68, which is apparently being released at the same time as Volume 13... that's an interesting first?
+Anyway, I should wrap this up here. Made in Abyss was adapted into an anime, which was an amazing adaptation, and a pretty decent video game (the first 3 hours retells part of the main story - stick it out until you get to your custom character, and it's actually quite good). I'm currently looking forward to chapter 68/69, which is apparently being released at the same time as Volume 13... that's an interesting first?
 
 Surely, they wouldn't delay a major twist being spoiled until the physical release, to make sure they don't lose physical sales... would they?
 
+Edit: Yes. Yes they did.
