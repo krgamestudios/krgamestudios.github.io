@@ -1,6 +1,6 @@
 Hello World! I'm Kayne Ruse, an independent game developer, making both video and tabletop games of all kinds.
 
-I've been making games for 20 years, and was born with a controller in my hand. I've got a lot of practical skills and hands-on experience with my own projects, but no formal work history to match, due to a variety of reasons.
+I've been making games for 20 years, and was born with a controller in my hand. I've got a lot of practical skills and hands-on experience with my own projects, and I'm always looking for new ways to improve myself, and expand my skills.
 
 One of my biggest claims to fame is releasing a game on the Nintendo Switch - [Candy Raid: The Factory](https://www.nintendo.com/us/store/products/candy-raid-the-factory-switch/).
 
