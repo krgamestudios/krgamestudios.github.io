@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: gamedev eggtrainer
+tags: gamedev egg-trainer
 ---
 
 The history of Egg Trainer is arguably the history of my life - I've only ever really made games that I personally want to play, and Egg Trainer is no different. I could write a book about my history with Pokemon, gamedev, and gaming in general - but instead, here is a brief summary, to explain how Egg Trainer came to be.

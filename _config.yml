@@ -8,6 +8,12 @@ remote_theme: pages-themes/minimal@v0.2.0
 excerpt_separator: <!--more-->
 #show_drafts: true
 
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:name
+
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme
 - jekyll-seo-tag
+
