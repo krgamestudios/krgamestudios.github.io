@@ -1,5 +1,5 @@
 title: KR Game Studios
-description: Making Games on a Shoestring Budget
+description: Making Games on a Shoestring Budget!
 logo: logo_400x400.png
 author: Kayne Ruse (Ratstail91)
 
@@ -10,6 +10,9 @@ excerpt_separator: <!--more-->
 
 collections:
   posts:
+    output: true
+    permalink: /:collection/:name
+  unlisted:
     output: true
     permalink: /:collection/:name
 
