@@ -20,10 +20,10 @@ Classes go from levels 1-4, with prestige classes covering levels 5-10.
 
 Classes are:
 
-Fighter -> Knight, Warrior
-Cleric -> Paladin, Warlock
+Fighter -> Soldier, Prizefighter
+Priest -> Paladin, Inquisitor
 Mage -> White Mage, Black Mage
-Rogue -> Thief, Spy
+Orator -> Diplomat, Agent
 
 The specific classes are limited to make them each stand out.
 
