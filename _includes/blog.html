@@ -3,7 +3,7 @@
 <ul>
     {% for post in site.posts limit:3 %}
     <li>
-        <span><a href="{{ post.url }}">{{ post.title }}</a><p> - {{ post.excerpt }}</p></span>
+        <span><p><a href="{{ post.url }}">{{ post.title }}</a></p><p>{{ post.excerpt }}</p></span>
     </li>
     {% endfor %}
 
