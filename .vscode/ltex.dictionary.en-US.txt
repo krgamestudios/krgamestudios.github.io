@@ -1,1 +1,5 @@
 armour
+favour
+playtesting
+magicule
+magicules
