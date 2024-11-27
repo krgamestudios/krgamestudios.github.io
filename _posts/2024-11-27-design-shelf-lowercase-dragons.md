@@ -1,6 +1,7 @@
 ---
 layout: post
 tags: gamedev shelf ttrpg
+title: "Design Shelf: Lowercase Dragons"
 ---
 
 Game ideas are easy - I have half a dozen every day. I write down the interesting ones, either to come back to, or to inspire the imaginations of others.
@@ -63,4 +64,6 @@ This outline only details the framework for the class system, but it could be ex
 The tripartite attributes are nothing new - I'm sure other games have done the same thing, but I'm pretty sure the 2d6 - 2d6 system is unique. The goal was to center the "baseline" for a normal person around zero, and to bring the relative power level down a notch. 2d6 might be too high - d6-d6 gives -5 to +5 - but that's what playtesting is for.
 
 If anyone wants to expand on this, I'd love to know, and I'll even give you a shout-out. Good luck!
+
+Addendum: After leaving this for a day before publishing, I've realized that this counts as a "Fantasy Heartbreaker". Not the most positive of labels, but it is what it is.
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 tags: health gamedev
+title: "Have a KitKat"
 ---
 
 When I was in my 20s, I thought I was invincible. I didn't *know* I thought that, but I did. I used to have 8-to-12 hour coding sessions, the kind that leaves you mentally wiped, and I'd go back and do it again the next day. Being young and stupid, I thought I could handle it, which is exactly the kind of thinking that caused a years-long depression that I still have to keep an eye on.
