@@ -1,0 +1,29 @@
+.spoiler {
+    position: relative;
+    display: inline-block;
+}
+
+.spoiler::before {
+    content: 'spoiler\02026'; /* &hellip; */
+    position: absolute;
+    left: -2px;
+    top: -2px;
+    right: -2px;
+    bottom: -2px;
+    border-radius: 1px;
+    font-size: .9rem;
+    color: black;
+    background: #66cc00;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    opacity: 1;
+    transition: opacity 0.7s ease, transform 0.3s ease; /* hide faster than reveal */
+}
+
+.spoiler:hover::before {
+    opacity: 0;
+    transform: translateY(-50%)rotateX(80deg);
+    transition: opacity 1.0s ease, transform 0.5s ease; /* slower reveal */
+}
