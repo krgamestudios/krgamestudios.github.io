@@ -3,8 +3,7 @@
     display: inline-block;
 }
 
-.spoiler::before {
-    content: 'spoiler\02026'; /* &hellip; */
+.spoiler > .hint {
     position: absolute;
     left: -2px;
     top: -2px;
@@ -12,18 +11,31 @@
     bottom: -2px;
     border-radius: 1px;
     font-size: .9rem;
-    color: black;
-    background: #66cc00;
+    background: var(--cover);
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
     opacity: 1;
-    transition: opacity 0.7s ease, transform 0.3s ease; /* hide faster than reveal */
+    transition: opacity 0.7s ease, transform 0.3s ease;
 }
 
-.spoiler:hover::before {
+.spoiler:hover > .hint {
     opacity: 0;
     transform: translateY(-50%)rotateX(80deg);
-    transition: opacity 1.0s ease, transform 0.5s ease; /* slower reveal */
+    transition: opacity 1.0s ease, transform 0.5s ease;
 }
+
+/*
+
+<div class="spoiler" style="--cover: #66cc00">
+    <span class="hint">Spoilers Within</span>
+    Text body.
+</div>
+
+<p class="spoiler"  style="--cover: #66cc00">
+    <span class="hint">Spoilers Within</span>
+    Text body.
+</p>
+
+*/
