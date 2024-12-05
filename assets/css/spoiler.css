@@ -16,7 +16,7 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    opacity: 1;/
+    opacity: 1;
     transition: opacity 0.7s ease, transform 0.3s ease;
 }
 
@@ -26,10 +26,21 @@
     transition: opacity 1.0s ease, transform 0.5s ease;
 }
 
+/* accessability tweaks */
 @media (prefers-reduced-motion) {
     .spoiler:hover > .hint {
         transform: unset;
     }
+}
+
+.spoiler {
+    visibility: hidden;
+    transition: visibility 1s;
+}
+
+.spoiler > *, .spoiler:hover {
+    visibility: visible;
+    transition: visibility 0.1s;
 }
 
 /*
