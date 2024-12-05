@@ -9,3 +9,9 @@ Various
 ## Modding As a Feature
 
 Various
+
+---
+
+```
+grep -rwh . -e "tags:*" --include=*.md
+```
