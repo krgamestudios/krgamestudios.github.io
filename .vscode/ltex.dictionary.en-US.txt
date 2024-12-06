@@ -4,3 +4,8 @@ playtesting
 magicule
 magicules
 dozen-ish
+Inscryption
+ruleset
+rulesets
+mox
+mana
