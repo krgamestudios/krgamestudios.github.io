@@ -9,29 +9,39 @@ A friend of mine is working towards building tools and utilities within Unity, t
 
 <!--more-->
 
+# Platforms and Interfaces
+
+Windows, Linux, MacOS, Switch
+
+Keyboard + Controllers being mapped to actions
+
 # Libraries and Tools
 
 C
 Toy
 SDL3
+Box2D?
 
 # Genre Dictates Mechanics
 
-procgen
+goal?
+Waterlogged? (link to and explain)
+procgen & prefab
 modding
+physics engine (box2d or custom?)
+
+# Entity Memory And Behaviour
+
+Tables?
+ECS vs. Monoliths
+One Script per entity?
+How will Toy tie into the mechanics
+Bespoke mechanics
 
 # Game Map
 
 Tiled?
 Map is contiguous or segmented/paginated?
 
-Goals of the game? Waterlogged? (give a link)
-
-platforms, input methods, physics engine (Box2D? or custom?)
-
-collectables
-enemy AI
-NPC dialog/quests
-bespkke behaviors for various parts of the game
 
 
