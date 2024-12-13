@@ -9,3 +9,10 @@ ruleset
 rulesets
 mox
 mana
+swappable
+Kayne
+gamedev
+Behaviour
+roguelike
+Parvati
+LogicMonkey
