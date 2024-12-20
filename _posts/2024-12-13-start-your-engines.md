@@ -9,7 +9,7 @@ A friend of mine is working towards building tools and utilities within Unity, t
 
 <!--more-->
 
-# My History With Game Engines
+## My History With Game Engines
 
 About fifteen-ish years ago, when I was studying at TAFE, I concocted 'Kayne's All-purpose Game Engine', or 'KAGE' for short. Since then, my skills have greatly improved, my perspective on gamedev has widened, and my punny names have somehow worsened.
 
@@ -21,7 +21,7 @@ While the game is no longer mine, the engine was open source from the beginning,
 
 For most new games, I'd recommend using an off-the-shelf engine if you can. If you want to build a game, but the available engines don't meet your needs, only then should you build the engine too.
 
-# Platforms and Interfaces
+## Platforms and Interfaces
 
 I have several target platforms for my next big game:
 
@@ -36,13 +36,13 @@ Platform portability has a lot of technical considerations, even between desktop
 
 In my previous attempt to write the Box engine, I found configuring the interface options using an initial startup script worked well enough, though that engine's build was just as ad-hoc as Toy v1. There's also the consideration of Nintendo's NDA, which disallows their APIs to be released in any form. These requirements are leading me to consider making the 'connective tissue' between the engine and interfaces a swappable external library.
 
-# Libraries and Tools
+## Libraries and Tools
 
 Since I'm most familiar with the C programming language right now, I'll be sticking with that - it also helps that C can run on just about anything. Toy is also written in C, so plugging that in is trivial. I have a lot of experience with SDL2, but since SDL3 recently released, I'll be using it to help with porting, and general functionality like graphics, input and audio. [SDL](https://libsdl.org/) is an industry standard by this point, so I highly recommend anyone who is interested in gamedev should learn it.
 
 There's a lot of other tools I can use, either to build the engine, or supplement the game's tool chain. The [Tiled Map Editor](https://www.mapeditor.org/) is apparently great, though I've never used it myself, and [Box2d](https://box2d.org/) is popular, though when I tinkered with it years ago, I wasn't too fond of it. My opinions may have changed, so much research is still needed.
 
-# Genre Dictates Mechanics
+## Genre Dictates Mechanics
 
 The next question is, what kind of game do I want to build?
 
@@ -58,7 +58,7 @@ This actually links back to the original Skylands prototype that I was using Box
 
 I hope a game like this is open-ended enough to allow easy modding, which is the whole point behind Toy's inception.
 
-# Entity Memory And Behaviour
+## Entity Memory And Behaviour
 
 So, how does Toy interact with the engine, and the game's world?
 
@@ -66,13 +66,13 @@ My first thought would be to give each entity in the world, such as NPCs, etc. t
 
 Knowing this is a requirement, I'll need to tweak the tables (and other structures) to use the custom bucket allocators instead of `malloc()` - this way, I can unload all the entity data within a level, without leaking memory.
 
-# Game Map
+## Game Map
 
 If this game ends up being a roguelike, it will need some way to persist maps during a single run. The map structures will likely be designed specifically for the engine, though I'll have to look into how Tiled formats its data.
 
 The choice between contiguous (open world) or paginated (broken up into separate rooms) maps should probably wait until I'm closer to actually designing the game.
 
-# Conclusion
+## Conclusion
 
 Well, it seems like the certainties tapered off near the bottom of this article, as they relate more to the game's design than Toy or Box. I'll revisit this article down the road, and use it as a reference to compare my thoughts over time.
 
