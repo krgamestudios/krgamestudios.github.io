@@ -16,3 +16,5 @@ Behaviour
 roguelike
 Parvati
 LogicMonkey
+disassembler
+bytecode
