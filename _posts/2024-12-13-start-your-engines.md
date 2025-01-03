@@ -50,7 +50,7 @@ I've always wanted to expand on a jam game called [Waterlogged](https://bunnytra
 
 A second idea I had with a similar set of mechanics, but very different aesthetics. Here's a summary of my idea after letting it stew for a bit:
 
-> Deep under the earth, lies a hidden village. One day, their only source of water, the river flowing from the forbidden cave systems above, slowed to a trickle before drying up entirely. Now, one young girl must set out to find and restore the flow of water, before everyone he knows and loves dies.
+> Deep under the earth, lies a hidden village. One day, their only source of water, the river flowing from the forbidden cave systems above, slowed to a trickle before drying up entirely. Now, one young girl must set out to find and restore the flow of water, before everyone she knows and loves dies.
 
 While this resembles the 'Rowan of Rin' book series quite a bit, I was actually thinking of the mechanics of Waterlogged before this idea came to me. There could be a persistent on-screen time limit - normally, humans can only survive for three days without water, so having a hydration meter in the UI would be constant reminder of the goal of the game, which can only be extended by finding and releasing caches of water, in the hopes that it reaches the village far below.
 
