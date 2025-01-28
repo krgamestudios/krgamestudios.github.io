@@ -1,1 +1,2 @@
 {"rule":"CD_NN","sentence":"^\\QAt any point during your turn, you can pay 5 mana to launch your Starship, by summoning it as a normal minion.\\E$"}
+{"rule":"NON_ACTION_CONTINUOUS","sentence":"^\\QMy philosophy is \"it's a marathon, not a sprint\", so maintaining my enthusiasm for development is essential, as is knowing how my own mind works.\\E$"}
