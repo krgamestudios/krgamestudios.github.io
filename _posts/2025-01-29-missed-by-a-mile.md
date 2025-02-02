@@ -43,3 +43,5 @@ My new timetable looks like this:
 | [Documentation](https://github.com/Ratstail91/Toy/issues/169) | - | - |
 
 Dwelling on the past never helped anyone, so let's keep moving forward.
+
+[![toylang preview](/assets/toylang-preview.png)](https://github.com/Ratstail91/Toy)
