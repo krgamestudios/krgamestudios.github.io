@@ -1,23 +1,22 @@
-## Doubling Cube
+Doubling Cube
 
 Backgammon
 
-## Wave Function Collapse and Prefabs
+Wave Function Collapse and Prefabs
 
-Various
-
-## Modding As a Feature
-
-Various
+Modding As a Feature
 
 ---
 
-```
-grep -rwh . -e "tags:*" --include=*.md
+tools for checking tags
+
+```bash
+grep -rwh . -e "^tags:*" --include=*.md
 ```
 
-## Chess-Themed TCG
-
+```bash
+grep -rwh . -e "^tags:*" --include=*.md | sed -e 's/tags:/ /g' | sed -e 's/[^[:alpha:]-]/ /g' | tr '\n' " " |  tr -s " " | tr " " '\n' | grep "\S" | tr 'A-Z' 'a-z' | sort | uniq -c | sort -nr
+```
 Linked image to the repo:
 
 [![toylang preview](/assets/toylang-preview.png)](https://github.com/Ratstail91/Toy)

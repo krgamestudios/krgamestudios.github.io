@@ -18,3 +18,7 @@ Parvati
 LogicMonkey
 disassembler
 bytecode
+TCG
+TCGs
+deckbuilding
+MtG
