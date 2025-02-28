@@ -21,5 +21,5 @@ grep -rwh . -e "^tags:*" --include=*.md | sed -e 's/tags:/ /g' | sed -e 's/[^[:a
 ```
 Linked image to the repo:
 
-[![toylang preview](/assets/toylang-preview.png)](https://github.com/Ratstail91/Toy)
+[![toylang preview](/assets/toylang-preview.png)](https://github.com/krgamestudios/Toy)
 

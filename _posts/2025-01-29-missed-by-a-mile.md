@@ -33,15 +33,15 @@ My new timetable looks like this:
 
 | Feature | Time Span | Review Date |
 | --- | :---: | :---: |
-| [Arrays & Tables](https://github.com/Ratstail91/Toy/issues/155) | -  | 1st Jan ✅ |
-| [Control Flow](https://github.com/Ratstail91/Toy/issues/152) | 2 weeks | 15th Jan ✅ |
-| [Functions](https://github.com/Ratstail91/Toy/issues/163) | 2 weeks | ~~29th Jan~~ |
-| [Functions](https://github.com/Ratstail91/Toy/issues/163) | 2 weeks | 12th Feb |
-| [Dot Operator & Slices](https://github.com/Ratstail91/Toy/issues/156) | 2 weeks | 26th Feb |
-| [Standard Libraries](https://github.com/Ratstail91/Toy/issues/164) | 2 weeks | 12th Mar |
-| [Native Libraries](https://github.com/Ratstail91/Toy/issues/165) | 2 weeks | 26th Mar |
-| [Documentation](https://github.com/Ratstail91/Toy/issues/169) | - | - |
+| [Arrays & Tables](https://github.com/krgamestudios/Toy/issues/155) | -  | 1st Jan ✅ |
+| [Control Flow](https://github.com/krgamestudios/Toy/issues/152) | 2 weeks | 15th Jan ✅ |
+| [Functions](https://github.com/krgamestudios/Toy/issues/163) | 2 weeks | ~~29th Jan~~ |
+| [Functions](https://github.com/krgamestudios/Toy/issues/163) | 2 weeks | 12th Feb |
+| [Dot Operator & Slices](https://github.com/krgamestudios/Toy/issues/156) | 2 weeks | 26th Feb |
+| [Standard Libraries](https://github.com/krgamestudios/Toy/issues/164) | 2 weeks | 12th Mar |
+| [Native Libraries](https://github.com/krgamestudios/Toy/issues/165) | 2 weeks | 26th Mar |
+| [Documentation](https://github.com/krgamestudios/Toy/issues/169) | - | - |
 
 Dwelling on the past never helped anyone, so let's keep moving forward.
 
-[![toylang preview](/assets/toylang-preview.png)](https://github.com/Ratstail91/Toy)
+[![toylang preview](/assets/toylang-preview.png)](https://github.com/krgamestudios/Toy)

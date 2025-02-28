@@ -9,7 +9,7 @@ I've just finished implementing and testing a bunch of keywords for Toy, and I f
 
 <!--more-->
 
-[![toy asm](/assets/toy_asm.png)](https://github.com/Ratstail91/Toy)
+[![toy asm](/assets/toy_asm.png)](https://github.com/krgamestudios/Toy)
 <center><em>Oh look, a pretty picture!</em></center>
 
 <br>

@@ -43,5 +43,5 @@ For the time being, I'm going to work on the code, and leave the documentation f
 
 I'm going to take my time for now and work on this for fun - which seems to be the best way to see something to completion, at least for me. Feedback and contributions are welcome!
 
-[![toylang preview](/assets/toylang-preview.png)](https://github.com/Ratstail91/Toy)
+[![toylang preview](/assets/toylang-preview.png)](https://github.com/krgamestudios/Toy)
 
