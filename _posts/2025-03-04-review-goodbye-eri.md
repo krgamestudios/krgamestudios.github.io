@@ -10,10 +10,8 @@ Make sure you do the "come back" part. The "sharing this post" part is also appr
 
 <!--more-->
 
-<span>
-<img src="/assets/reviews/goodbye_eri_01.jpg" />
-<p style="text-align: center; font-style: italic;">Yes, I physically bought it - there's something special about physical media.</p>
-</span>
+<img src="/assets/reviews/goodbye_eri_01.jpg" />  
+<p style="text-align: center; font-style: italic;">Yes, I physically bought it - there's something special about physical media.</p>  
 
 The story's POV is Yuta, twelve-year-old middle schooler who just got a smartphone for his birthday.
 
@@ -21,10 +19,8 @@ That's... actually not entirely true, as the POV is Yuta's *phone*. After his te
 
 The panels on each page are rectangular, presumably to indicate that we're actually seeing this footage. It even has an occasional "blurry" effect to simulate the phone being shaken or out of focus - this was off-putting at first, as my eyes aren't super clear at the best of times, but I got used to it.
 
-<span>
-<img src="/assets/reviews/goodbye_eri_02.jpg" />
-<p style="text-align: center; font-style: italic;">Hey ChatGPT, search google for "astigmatism irritants"</p>
-</span>
+<img src="/assets/reviews/goodbye_eri_02.jpg" />  
+<p style="text-align: center; font-style: italic;">Hey ChatGPT, search google for "astigmatism irritants"</p>  
 
 As Yuta and his father are about to visit his mother for the last time, his nerve breaks, he runs for it, and the hospital explodes - or at least, that's how the movie presented at the school festival finishes. In reality, he added the explosion to the recordings, and earned the ire of the student body for disrespecting his own mother. This was pretty early on, but at this point, it had me thinking this kid was a complete psychopath.
 
@@ -32,10 +28,8 @@ He isn't though, and just before jumping to his death following the ridicule, he
 
 What follows is a montage of movie-watching sessions, Eri rejecting each newly written script, and many, MANY absolutely gorgeous panels bursting with detail, that amaze me with the amount of time and effort that must've gone into them.
 
-<span>
-<img src="/assets/reviews/goodbye_eri_03.jpg" />
-<p style="text-align: center; font-style: italic;">THOSE LEAVES - THIS IS NOT NORMAL</p>
-</span>
+<img src="/assets/reviews/goodbye_eri_03.jpg" />  
+<p style="text-align: center; font-style: italic;">THOSE LEAVES - THIS IS NOT NORMAL</p>  
 
 While the opening of the story was definitely attention grabbing, the strangeness of these panels is what clued me into something about this story being unique. Any creative worth their salt knows where to put the emphasis, in terms of time and effort - knowing what *not* to put in is just as important.
 
@@ -53,10 +47,8 @@ Likewise, the reason I don't want to go into depth regarding the manga's second 
 
 Fujimoto's work here is astounding, from the intense background details, to the clever paneling, to the way he presents a train of thought across multiple pages via the shifting expressions of the subjects.
 
-<span>
-<img src="/assets/reviews/goodbye_eri_04.jpg" />
-<p style="text-align: center; font-style: italic;">"Tell me human, what are these 'emotions' you speak of?"</p>
-</span>
+<img src="/assets/reviews/goodbye_eri_04.jpg" />  
+<p style="text-align: center; font-style: italic;">"Tell me human, what are these 'emotions' you speak of?"</p>  
 
 An extra thought on the facial expressions: I have high-functioning autism, which means I can do most things that anyone else can, <strike>except when it's time to review the funding for my disability pension</strike>. One of the quirks of my condition is an aversion to faces - while it's not *too* hard to look at people if I try, strangers might get the no-eye-contact treatment without me realizing it. Even if you're not a stranger, unless you're a relative, I might end up speaking to your mouth rather than your eyes.
 
