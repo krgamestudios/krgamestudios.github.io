@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: langdev
+tags: langdev toy
 ---
 
 Over the last decade-ish, I've tinkered with making my own programming language. About two years ago, I put my all behind the idea, and ended up with Toy - A Toy Programming Language.
