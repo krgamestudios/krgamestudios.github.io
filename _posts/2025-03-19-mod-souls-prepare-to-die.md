@@ -18,4 +18,6 @@ Finally, My new project will be using libtcod, and I'll also be writing articles
 
 I'll need to codify the playtest notes from the [Curses and Blessings](https://gitea.krgamestudios.com/Ratstail91/curses-and-blessings) playtests - there's a pair of recordings in a [Dropbox folder](https://www.dropbox.com/scl/fo/76xdpmkg3cc45qk8tto0e/AFvITOm19x0Iu1PjZK9ZMpA?rlkey=4ad3dqyrheonl7ai2jj6ve2sr&st=7q435iqv&dl=0), and I've gotten verbal permission to post these. This is low priority for now though, as CaB is a side project that I can fiddle with on a causal basis. For now, I gotta focus on my main tasks, specifically, fulfilling the commission.
 
+Edit: "Oh, I think I should add a search bar, should only take 10 minutes." FOUR HOURS LATER, it's now 1am, and it still doesn't work. Why do I do this to myself?
+
 *When I'm not falling behind schedule, I can usually be found on [Bluesky](https://bsky.app/profile/krgamestudios.bsky.social) or [Discord](https://discord.gg/5KwPFdTBZp). I also have a [Patreon](https://www.patreon.com/c/krgamestudios), which has extremely outdated graphics, wow.*
