@@ -1,10 +1,10 @@
-Doubling Cube
-
-Backgammon
+Backgammon's Doubling Cube
 
 Wave Function Collapse and Prefabs
 
-Modding As a Feature
+Modding As a Feature - Luanti
+
+AI: Alien Intelligence - AI is a different "species" than humans
 
 ---
 
@@ -25,4 +25,4 @@ Linked image to the repo:
 
 
 
-*When I'm not [], I can usually be found on [Bluesky](https://bsky.app/profile/krgamestudios.bsky.social) or [Discord](https://discord.gg/5KwPFdTBZp). I also have a [Patreon](https://www.patreon.com/c/krgamestudios).*
+*When I'm not [], I can usually be found on [Bluesky](https://bsky.app/profile/krgamestudios.bsky.social) or [Discord](https://discord.gg/5KwPFdTBZp). If you'd like to show your support, I also have a [Patreon](https://www.patreon.com/c/krgamestudios).*
