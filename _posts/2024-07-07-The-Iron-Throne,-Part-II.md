@@ -1,6 +1,7 @@
 ---
 layout: post
 tags: gamedev gamejam
+title: "The Iron Throne, Part II"
 ---
 
 I figured from [yesterday](/2024/07/06/The-Iron-Throne) that I'd make an RTS where you're wrangling some automata of some kind, and I'd have some kind of limited input interface...

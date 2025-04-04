@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: unlisted
 tags: gamedev roguelike stepwise
 title: "Step Wisely, Like A Rogue"
 ---

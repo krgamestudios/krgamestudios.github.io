@@ -1,6 +1,7 @@
 ---
 layout: post
 tags: writing
+title: "Portal Sci-Fi"
 ---
 
 I'm a big fan of Stargate, because who isn't? I love the idea of exploring an expansive galaxy of civilisations, each vying for power in one way or another. Perhaps it's a little cliche that Earth ends up as the top dog in multiple galaxies, but you can chalk that up to a majority of the intended audience being humans.
