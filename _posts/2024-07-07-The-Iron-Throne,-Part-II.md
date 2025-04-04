@@ -9,7 +9,7 @@ I figured from [yesterday](/2024/07/06/The-Iron-Throne) that I'd make an RTS whe
 
 That was until I started searching through tilesets this morning, and landed on [this awesome looking set](https://secrethideout.itch.io/iso-tactics-tileset-isometric-level-kit) by Secret Hideout:
 
-![iron throne altar](/assets/2024-07-07-iron-throne-altar.png)
+![iron throne altar](/assets/2024-07-07/iron-throne-altar.png)
 
 It's simple, with only a couple dozen elements, but it looks amazing. I also upgraded my version of godot to the current beta preview, so I could get the stacked-tiles effect.
 
@@ -21,6 +21,6 @@ I don't exactly wanna rip off the pre-existing assets, so I'm likely going to be
 
 ...OK, that's neat.
 
-![character-green-front](/assets/2024-07-07-character-green-front.png)
+![character-green-front](/assets/2024-07-07/character-green-front.png)
 
-![character-green-back](/assets/2024-07-07-character-green-back.png)
+![character-green-back](/assets/2024-07-07/character-green-back.png)

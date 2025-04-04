@@ -39,3 +39,4 @@ Evil
 Evil-Neuro
 Vedal
 Anny
+Roguelike

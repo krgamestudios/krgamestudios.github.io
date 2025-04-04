@@ -44,4 +44,4 @@ My new timetable looks like this:
 
 Dwelling on the past never helped anyone, so let's keep moving forward.
 
-[![toylang preview](/assets/toylang-preview.png)](https://github.com/krgamestudios/Toy)
+[![toylang preview](/assets/toylang/toylang-preview.png)](https://github.com/krgamestudios/Toy)

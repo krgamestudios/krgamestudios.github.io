@@ -17,7 +17,7 @@ I can get away with saying "bitch" if it's referring to a female dog, right?
 
 I'm thinking that writing the text using this kind of "attitude" would be an interesting approach - unfortunately, I think the name of the attitude is "catty". I still have a lot of work to do regarding the actual written text, but for now I'm beginning with the basics of the program.
 
-![screenshot1](/assets/2024-07-02-screenshot1.png)
+![screenshot1](/assets/2024-07-02/screenshot1.png)
 
 I've been digging around Godot's features, and I feel like the custom resources are useful - a "Bark" is analogous to a tweet, so I created a resource type for barks, borrowed a few famous tweets as placeholders, and developed both the storage and basic display for them. The nine-slice background is actually just a sprite plucked from [Kenney's Game Assets All-In-1](https://kenney.itch.io/kenney-game-assets), which I apparently owned already. If you've never seen [kenney.nl](https://www.kenney.nl/) before, go give him a [follow](https://twitter.com/KenneyNL).
 
