@@ -13,7 +13,6 @@ swappable
 Kayne
 gamedev
 Behaviour
-roguelike
 Parvati
 LogicMonkey
 disassembler
@@ -40,3 +39,10 @@ Evil-Neuro
 Vedal
 Anny
 Roguelike
+Roguelikes
+roguelike
+roguelikes
+Gobbo
+Gobbos
+gobbo
+gobbos
