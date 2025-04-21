@@ -19,6 +19,6 @@ Some recurring elements will exist in all worlds to provide some stability, but 
 
 ## Credits
 
-Design, Coding: Kayne Ruse  
+Design, Coding: Kayne Ruse (Ratstail91)  
 Design: Troy Brough  
-Font: https://2bitcrook.itch.io/44-game-boy-fonts  
+Font: [16 Bit Dreams Mono by 2bitcrook](https://2bitcrook.itch.io/44-game-boy-fonts)  
