@@ -8,8 +8,8 @@ A few weeks ago, I (with input from my good friend Troy) started working on a tr
 
 <!--more-->
 
-![screenshot_01.png](/assets/draft-stepwise/screenshot_01.png)
-![screenshot_04.png](/assets/draft-stepwise/screenshot_04.png)
+![screenshot_01.png](/assets/2025-04-07/screenshot_01.png)
+![screenshot_04.png](/assets/2025-04-07/screenshot_04.png)
 
 As a broad overview, stepwise is an homage to classic console-bound roguelikes, with their 80 columns of text across 24 rows, but opts to leverage the abstract art style to present multiple different worlds, each with their own genres and premises.
 
@@ -92,6 +92,8 @@ Finally, the element that ties it all together, is how the different worlds *int
 
 Stepwise will be a commercial release, though exactly when, I'm not sure. I'm also not sure when I'll make the source code private - likely when I reach the mid-point of development, and begin taking pre-orders/early access sales.
 
-For now, the source is available on my [private gitea](https://gitea.krgamestudios.com/Ratstail91/Stepwise), and linked on the side of this website. These links will be updated as things change. If you'd like to tinker with your own roguelike, there's a whole website dedicated to [Roguelike Tutorials](https://rogueliketutorials.com/).
+For now, ~~the source is available on my private gitea, and linked on the side of this website~~. Edit: The source has been made private, more up-to-date information can be found on the dedicated page [here](https://krgamestudios.com/Stepwise).
+
+If you'd like to tinker with your own roguelike, there's a whole website dedicated to [Roguelike Tutorials](https://rogueliketutorials.com/).
 
 *When I'm not trying to melee a [floating eye](https://shop.wizkids.com/products/d-d-icons-of-the-realms-potato-head-beholder-boxed-miniature), I can usually be found on [Bluesky](https://bsky.app/profile/krgamestudios.bsky.social) or [Discord](https://discord.gg/5KwPFdTBZp). If you'd like to show your support, I also have a [Patreon](https://www.patreon.com/c/krgamestudios).*
