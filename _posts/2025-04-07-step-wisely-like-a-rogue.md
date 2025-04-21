@@ -92,7 +92,7 @@ Finally, the element that ties it all together, is how the different worlds *int
 
 Stepwise will be a commercial release, though exactly when, I'm not sure. I'm also not sure when I'll make the source code private - likely when I reach the mid-point of development, and begin taking pre-orders/early access sales.
 
-For now, ~~the source is available on my private gitea, and linked on the side of this website~~. Edit: The source has been made private, more up-to-date information can be found on the dedicated page [here](https://krgamestudios.com/Stepwise).
+For now, ~~the source is available on my private gitea, and linked on the side of this website~~. Edit: The source has been made private, more up-to-date information can be found on the dedicated page [here](https://krgamestudios.com/stepwise).
 
 If you'd like to tinker with your own roguelike, there's a whole website dedicated to [Roguelike Tutorials](https://rogueliketutorials.com/).
 
