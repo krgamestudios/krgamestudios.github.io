@@ -17,8 +17,13 @@ Some recurring elements will exist in all worlds to provide some stability, but 
 
 ![wip_inventory](/assets/pages/Stepwise/screenshot_wip_inventory.png)
 
-## Credits
+## Credits and Special Thanks
 
 Design, Coding: Kayne Ruse (Ratstail91)  
 Design: Troy Brough  
 Font: [16 Bit Dreams Mono by 2bitcrook](https://2bitcrook.itch.io/44-game-boy-fonts)  
+
+Patrons, Pixel Tier: -  
+Patrons, Sprite Tier: Seth A. Robinson  
+Patrons, Polygon Tier: -  
+
