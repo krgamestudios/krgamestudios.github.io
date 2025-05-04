@@ -3,11 +3,11 @@ layout: page
 title: "Stepwise"
 ---
 
-Stepwise (working title) is a traditional roguelike, with console-like graphics, built with [python-tcod](https://github.com/libtcod/python-tcod). Stepwise is still under heavy development, and is not yet ready for release.
+Stepwise (working title) is a traditional roguelike dungeon crawler with retro-inspired graphics, currently in active development, with a projected release date in early 2026.
 
-Each time you start a run, a genre is chosen from a predefined list of Worlds. Which world is chosen will dictate the rules for that run, altering the map generation and overall goals. Some talking monsters may change their dialog, or some monsters may only spawn in some worlds but not others.
+In Stepwise, each new game takes place in a randomly selected world, with its own setting, layout, collectable items and hidden secrets. One game might see you venturing across a vast fantasy land of elves and goblins, while another takes place in a vast dystopian cityscape, whose dark secrets are hidden miles below.
 
-Some recurring elements will exist in all worlds to provide some stability, but will often be warped to fit - for example, if the "fantasy" world has Cid, the Dwarven shopkeeper, the "sci-fi" world has C.I.D., the Customer Inventory Droid.
+Tread carefully as you step through the gate - there are many worlds out there, and not all of them are welcoming to the naive or foolish.
 
 ## Screenshots
 
@@ -20,10 +20,9 @@ Some recurring elements will exist in all worlds to provide some stability, but 
 ## Credits and Special Thanks
 
 Design, Coding: Kayne Ruse (Ratstail91)  
-Design: Troy Brough  
-Font: [16 Bit Dreams Mono by 2bitcrook](https://2bitcrook.itch.io/44-game-boy-fonts)  
+Design Assistant: Troy Brough  
+Graphics Font: [16 Bit Dreams Mono by 2bitcrook](https://2bitcrook.itch.io/44-game-boy-fonts)  
 
 Patrons, Pixel Tier: -  
 Patrons, Sprite Tier: Seth A. Robinson  
 Patrons, Polygon Tier: -  
-
