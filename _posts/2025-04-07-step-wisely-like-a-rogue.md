@@ -96,4 +96,6 @@ For now, ~~the source is available on my private gitea, and linked on the side o
 
 If you'd like to tinker with your own roguelike, there's a whole website dedicated to [Roguelike Tutorials](https://rogueliketutorials.com/).
 
+***Update**: The release date has been announced, and can be found in [this post](https://krgamestudios.com/posts/2025-05-04-stepwise-release-date).*
+
 *When I'm not trying to melee a [floating eye](https://shop.wizkids.com/products/d-d-icons-of-the-realms-potato-head-beholder-boxed-miniature), I can usually be found on [Bluesky](https://bsky.app/profile/krgamestudios.bsky.social) or [Discord](https://discord.gg/5KwPFdTBZp). If you'd like to show your support, I also have a [Patreon](https://www.patreon.com/c/krgamestudios).*
