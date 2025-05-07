@@ -17,6 +17,11 @@ Tread carefully as you step through the gate - there are many worlds out there, 
 
 ![wip_inventory](/assets/pages/Stepwise/screenshot_wip_inventory.png)
 
+## Downloads
+
+Raspberry Pi build - [2025-05-07-stepwise-debian-arm64.7z](https://www.dropbox.com/scl/fi/5k4oz36dzzc4lq9svu06i/2025-05-07-stepwise-debian-arm64.7z?rlkey=8xqgooxovufy08s425bn2w9wy&st=a6cqnncl&dl=1)  
+Windows Build - Coming soon  
+
 ## Credits and Special Thanks
 
 Design, Coding: Kayne Ruse (Ratstail91)  
