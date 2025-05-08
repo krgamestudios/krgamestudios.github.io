@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Stepwise"
+title: "Stepwise: Gates of Yendor"
 ---
 
-Stepwise (working title) is a traditional roguelike dungeon crawler with retro-inspired graphics, currently in active development, with a projected release date in early 2026.
+**Stepwise: Gates of Yendor** is a traditional roguelike dungeon crawler with retro-inspired graphics, currently in active development, with a projected release date in early 2026.
 
-In Stepwise, each new game takes place in a randomly selected world, with its own setting, layout, collectable items and hidden secrets. One game might see you venturing across a vast fantasy land of elves and goblins, while another takes place in a vast dystopian cityscape, whose dark secrets are hidden miles below.
+In this game, each new session takes place in a randomly selected world, with its own setting, layout, collectable items and hidden secrets. One session might see you venturing across a vast fantasy land of elves and goblins, while another takes place in a vast dystopian cityscape, whose dark secrets are hidden miles below.
 
 Tread carefully as you step through the gate - there are many worlds out there, and not all of them are welcoming to the naive or foolish.
 
