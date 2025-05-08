@@ -26,7 +26,7 @@ Raspberry Pi Build - [2025-05-07-stepwise-debian-arm64.7z](https://www.dropbox.c
 
 Design, Coding: Kayne Ruse (Ratstail91)  
 Design Assistant: Troy Brough  
-Testing: Andrew Apperley  
+Testing: Andrew Apperley, Kylogias  
 Graphics Font: [16 Bit Dreams Mono by 2bitcrook](https://2bitcrook.itch.io/44-game-boy-fonts)  
 
 Patrons, Pixel Tier: -  
