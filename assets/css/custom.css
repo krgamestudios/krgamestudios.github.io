@@ -1,0 +1,38 @@
+/* hide or show based on screen size */
+.mobile.show {
+	display: none;
+}
+
+@media screen and (max-width: 480px) {
+	.mobile.hide {
+		display: none;
+	}
+
+	.mobile.show {
+		display: unset;
+	}
+}
+
+.tablet.show {
+	display: none;
+}
+
+@media screen and (max-width: 768px) {
+	.tablet.hide {
+		display: none;
+	}
+
+	.tablet.show {
+		display: unset;
+	}
+}
+
+/* override minimal theme */
+header {
+	position: unset;
+}
+
+footer {
+	float: unset;
+	position: unset;
+}
