@@ -5,22 +5,20 @@ title: "Stepwise: Gates of Yendor"
 
 **Stepwise: Gates of Yendor** is a traditional roguelike dungeon crawler with retro-inspired graphics, currently in active development, with a projected release date in early 2026.
 
-In this game, each new session takes place in a randomly selected world, with its own setting, layout, collectable items and hidden secrets. One session might see you venturing across a vast fantasy land of elves and goblins, while another takes place in a vast dystopian cityscape, whose dark secrets are hidden miles below.
-
-Tread carefully as you step through the gate - there are many worlds out there, and not all of them are welcoming to the naive or foolish.
+The scope of this game has been greatly reduced for practical reasons, so a proper description is MIA for now - Sorry!
 
 ## Screenshots
 
-![wip_gameplay](/assets/pages/Stepwise/screenshot_wip_gameplay.png)
+![screenshot_june_1](/assets/pages/Stepwise/screenshot_june_1.png)
 
-![wip_log](/assets/pages/Stepwise/screenshot_wip_log.png)
+![screenshot_june_2](/assets/pages/Stepwise/screenshot_june_2.png)
 
-![wip_inventory](/assets/pages/Stepwise/screenshot_wip_inventory.png)
+![screenshot_june_3](/assets/pages/Stepwise/screenshot_june_3.png)
 
-## Downloads
+## Downloads - June Demo
 
-Windows Build - [2025-05-08-stepwise-windows-x86_64.7z](https://www.dropbox.com/scl/fi/piqflm4z7htxncac9v198/2025-05-08-stepwise-windows-x86_64.7z?rlkey=1y5fw35i8urbh4d27c29xqtjr&st=qsy0z9ng&dl=1)  
-Raspberry Pi Build - [2025-05-07-stepwise-debian-arm64.7z](https://www.dropbox.com/scl/fi/5k4oz36dzzc4lq9svu06i/2025-05-07-stepwise-debian-arm64.7z?rlkey=8xqgooxovufy08s425bn2w9wy&st=a6cqnncl&dl=1)  
+Windows Build - Coming Tomorrow!  
+Raspberry Pi Build - [2025-06-25-stepwise-debian-arm64.7z](https://www.dropbox.com/scl/fi/4pb3uvkbnol77bea9n4x2/2025-06-25-stepwise-debian-arm64.7z?rlkey=psl2yqkoo2zqb8b61lg6fy5wy&st=xfy5bo66&dl=1)  
 
 ## Credits and Special Thanks
 
