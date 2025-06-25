@@ -17,7 +17,7 @@ The scope of this game has been greatly reduced for practical reasons, so a prop
 
 ## Downloads - June Demo
 
-Windows Build - (demo build failed, fix is coming tomorrow)  
+Windows Build - [stepwise-demo-june-windows-x86_64.7z](https://www.dropbox.com/scl/fi/ycsvjmhju3k86gn8kk8cy/stepwise-demo-june-windows-x86_64.7z?rlkey=h1e3hceop4ysqgx333jhr7tag&st=63n1qs2o&dl=1)  
 Raspberry Pi Build - [stepwise-demo-june-debian-arm64.7z](https://www.dropbox.com/scl/fi/xp181wriio60vacb3sfzx/stepwise-demo-june-debian-arm64.7z?rlkey=and8gvhegcy5buqaa5lsvsbfa&st=3zpy8uq6&dl=1)  
 
 ## Credits and Special Thanks
