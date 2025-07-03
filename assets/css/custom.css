@@ -36,3 +36,13 @@ footer {
 	float: unset;
 	position: unset;
 }
+
+/* footnote magic */
+.footnotes {
+	margin-bottom: 1em;
+}
+
+.footnotes * {
+	font-size: 11px;
+	margin: 0;
+}
