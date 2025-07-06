@@ -42,4 +42,18 @@ My personal opinion is that Thor is correct - the initiative is misguided at bes
 
 ---
 
+## Update 6th July 2025
+
+Following some pointless internet drama [that I want no part of](https://krgamestudios.com/posts/2025-07-04-pirates-vs-aliens-drama-warfare), the Stop Killing Games initiative has reached its goal of 100,000 signatures, which means the EU will now look into the situation of online-only games being shut down. In response, the EU publisher group [released a statement on the initiative](https://www.videogameseurope.eu/news/statement-on-stop-killing-games/), which backs up everything I've said:
+
+> Private servers are not always a viable alternative option for players as the protections we put in place to secure players’ data, remove illegal content, and combat unsafe community content would not exist and would leave rights holders liable. In addition, many titles are designed from the ground-up to be online-only; in effect, these proposals would curtail developer choice by making these video games prohibitively expensive to create.
+
+I'm posting this update for one reason and one reason only: to highlight how the headline-only news cycles are taking advantage of consumer outrage for clicks, and perpetuating the misinformation around video game preservation. This is the headline from [PC Gamer's article](https://www.pcgamer.com/gaming-industry/european-game-publisher-group-responds-to-stop-killing-games-claims-these-proposals-would-curtail-developer-choice/).
+
+> European game publisher group responds to Stop Killing Games, claims 'These proposals would curtail developer choice"
+
+It feels quite vindicating to be proven right by the publishers, despite being in the minority opinion in online discourse. For the record: I'm a big believer in video game preservation and consumer rights, but this initiative is the wrong way to do it.
+
+---
+
 *When I'm not blogging at four in the morning, I can usually be found on [Bluesky](https://bsky.app/profile/krgamestudios.bsky.social) or [Discord](https://discord.gg/5KwPFdTBZp).*
