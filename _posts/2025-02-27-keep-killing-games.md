@@ -1,8 +1,10 @@
 ---
 layout: post
 tags: gamedev production business drama
-title: "Keep Killing Games"
+title: "Keep Killing Games - UPDATED"
 ---
+
+(Updates at the end.)
 
 About six months ago the Accursed Farms YouTube Channel [released a video](https://www.youtube.com/watch?v=mkMe9MxxZiI) announcing the [Stop Killing Games Initiative](https://www.stopkillinggames.com/), and the Pirate Software Youtube Channel [released a response](https://www.youtube.com/watch?v=ioqSvLqB46Y) and a [follow up](https://www.youtube.com/watch?v=x3jMKeg9S-s). The backlash I've seen against Pirate Software and his argument, is nothing but vitriol, and shows that so many people in the gaming community simply don't understand the reality of game development, and often misrepresent the argument entirely.
 
@@ -53,6 +55,12 @@ I'm posting this update for one reason and one reason only: to highlight how the
 > European game publisher group responds to Stop Killing Games, claims 'These proposals would curtail developer choice"
 
 It feels quite vindicating to be proven right by the publishers, despite being in the minority opinion in online discourse. For the record: I'm a big believer in video game preservation and consumer rights, but this initiative is the wrong way to do it.
+
+## Update 24th August 2025
+
+[I feel gross having given Pirate Software the benefit of the doubt.](https://youtu.be/_h5Cy_JrFVw?si=aRMISzNix47qTfv4)
+
+As for SKG, the recent waves of censorship has me reconsidering my position, on a lot of things. A full post may be needed.
 
 ---
 
