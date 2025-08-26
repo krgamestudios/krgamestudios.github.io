@@ -9,6 +9,9 @@ excerpt_separator: <!--more-->
 #show_drafts: true
 
 collections:
+  pages:
+    output: true
+    permalink: /:name
   posts:
     output: true
     permalink: /:collection/:name
