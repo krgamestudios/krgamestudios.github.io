@@ -1,12 +1,16 @@
-# A Case For Browser Games
-
-By Kayne Ruse
+---
+layout: post
+tags: gamedev webdev gaming
+title: "A Case For Browser Games"
+---
 
 The early 2000s internet was vastly different to today - not just in terms of content and culture, but the very technology it ran on was much simpler, with a higher barrier to entry for anyone wanting to develop software for it. Websites would often render differently depending on the browser you were using, or not at all. Thankfully, over time these differences have been smoothed out, web standards (despite being a hodgepodge of disparate precursors) became widely adopted across all major browsers, and those browsers were themselves adapted to and adopted by many hardware platforms.
 
 And so, despite the shaky foundations, web standards became a kind of lingua franca for today's technology landscape - if you want your games to be as widely playable as possible, building them with web technologies is your best bet.
 
 Enter, the browser game.
+
+<!--more-->
 
 These games, often freely available and easy to run regardless of hardware, embody four elements that bring in and retain a massive player base to this day. These elements aren't the only deciding factor of a game's success, but they do lay the foundations for developers to deliver some of the most memorable, impactful, and innovative games available today. In no particular order, let's discuss these elements:
 
@@ -39,3 +43,7 @@ Some communities date back decades - these people have shared histories, in-joke
 ## Conclusion
 
 Many developers got their start with browser games, and many more craft rich, engaging experiences for their players here. Not every game needs to be a massive production with 4K graphics, nor should they. Often, the most interesting and novel ideas come from these free online games that cater to an underserved but vibrant audience.
+
+*Addendum: This post was drafted a couple months ago with the intent of publishing on [Game Wisdom](https://game-wisdom.com/). That never came to be, but I appreciate Josh putting up with my flakey attempts at finding commission work - he's a pretty good dude.*
+
+*When I'm not looking for alternative froms of income, I can usually be found on [Bluesky](https://bsky.app/profile/krgamestudios.bsky.social) or [Discord](https://discord.gg/5KwPFdTBZp). If you'd like to show your support, I also have a [Patreon](https://www.patreon.com/c/krgamestudios), and I'd love a Coffee via [Ko-fi](https://ko-fi.com/krgamestudios).*
