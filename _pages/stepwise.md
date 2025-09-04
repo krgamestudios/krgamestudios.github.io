@@ -3,38 +3,25 @@ layout: page
 title: "Stepwise: Gates of Yendor"
 ---
 
-**Stepwise: Gates of Yendor** is a traditional roguelike dungeon crawler with retro-inspired graphics, currently in active development, with a projected release date in early 2026.
+Step forward, mortal! You, who have trespassed upon this forbidden ground, are now bound to this place! If you wish to ever return to your pitiful realm, you must obtain the fabled Amulet of Yendor, for only then shall the gates open once more! But be warned, within these halls are terrible beasts and ancient horrors - things that are best left undisturbed, for their time of awakening, is not yet at hand.
 
-The scope of this game has been greatly reduced for practical reasons, so a proper description is MIA for now - Sorry!
+**Stepwise: Gates of Yendor** is a traditional roguelike dungeon crawler with state-of-the-art 80s ASCII graphics, smooth and intuitive controls, and a diverse set of environments with powerful and intimidating monsters from a bygone era!
 
-## Screenshots
+Currently in active development, **Stepwise: Gates of Yendor** will release in early 2026.
 
-![screenshot_june_1](/assets/pages/Stepwise/screenshot_june_1.png)
+## Screenshots & Illustrations
 
-![screenshot_june_2](/assets/pages/Stepwise/screenshot_june_2.png)
-
-![screenshot_june_3](/assets/pages/Stepwise/screenshot_june_3.png)
-
-## Downloads - June Demo
-
-Windows Build - [stepwise-demo-june-windows-x86_64.7z](https://www.dropbox.com/scl/fi/ycsvjmhju3k86gn8kk8cy/stepwise-demo-june-windows-x86_64.7z?rlkey=h1e3hceop4ysqgx333jhr7tag&st=63n1qs2o&dl=1)  
-Raspberry Pi Build - [stepwise-demo-june-debian-arm64.7z](https://www.dropbox.com/scl/fi/xp181wriio60vacb3sfzx/stepwise-demo-june-debian-arm64.7z?rlkey=and8gvhegcy5buqaa5lsvsbfa&st=3zpy8uq6&dl=1)  
-
-### Known Bugs
-
-* [Fixed] 'Start Again' was reusing the same seed (restart the program for a new seed)
-* [Fixed] Custom seed menu is not accepting any text input (caused by underlying tech upgrades)
-* [Fixed] Added help state to the game over state
-* `RuntimeWarning: overflow encountered in scalar add` (needs a closer look, doesn't seem to cause problems)
-* Monsters can spawn on the same tile as the player when a room lacks enough space (mostly on floors 3 & 4)
+TODO: Screenshots & Illustrations
 
 ## Credits and Special Thanks
 
-Design, Coding: Kayne Ruse (Ratstail91)  
-Design Assistant: Troy Brough  
-Testing: Andrew Apperley, Kylogias  
-Graphics Font: [16 Bit Dreams Mono by 2bitcrook](https://2bitcrook.itch.io/44-game-boy-fonts)  
+**Design, Coding**: Kayne Ruse (Ratstail91, @krgamestudios.bsky.social)  
+**Design Assistant**: Troy Brough  
+**Testing**: Andrew Apperley, `@kylogias.bsky.social`, Jordan Ruse  
+**Graphics Font**: [16 Bit Dreams Mono by 2bitcrook](https://2bitcrook.itch.io/44-game-boy-fonts)  
 
-Patrons, Pixel Tier: -  
-Patrons, Sprite Tier: Seth A. Robinson  
-Patrons, Polygon Tier: -  
+**Patrons, Pixel Tier**: -  
+**Patrons, Sprite Tier**: Seth A. Robinson  
+**Patrons, Polygon Tier**: -  
+
+**Special Thanks**: `@arianetwo.bsky.social`  
