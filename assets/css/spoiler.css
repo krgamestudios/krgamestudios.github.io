@@ -1,6 +1,6 @@
 .spoiler {
     position: relative;
-    display: inline-block;
+    display: block;
 }
 
 .spoiler > .hint {
