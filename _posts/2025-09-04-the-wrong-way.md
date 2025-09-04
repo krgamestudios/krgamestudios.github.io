@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: 
+tags: gamedev ai
 title: "The Wrong Way"
 ---
 
@@ -14,9 +14,9 @@ Today was a great day out, I went to the local library to meet up with a friend 
 
 While I was updating the marketing material, he finished these amazing pen-and-paper illustrations depicting scenes from the game:
 
-<div>
-	<img src="/assets/2025-09-04/canopener_photo.jpg" style="max-width: 200px">
+<div style="text-align: center">
 	<img src="/assets/2025-09-04/doomguy_photo.jpg" style="max-width: 200px">
+	<img src="/assets/2025-09-04/canopener_photo.jpg" style="max-width: 200px">
 </div>
 
 These are, I think you'll agree, pretty friggin' amazing. I plan on using these when building the promotional images for steam, etc., though that's not a job for tonight.
@@ -25,10 +25,10 @@ I posted these to the discord channel dedicated to Stepwise's development, since
 
 When I checked in on the server this evening, one of the regular members (and someone I consider a friend) posted this message as a joke, with the following images attached:
 
-<div class="spoiler" style="--cover: #66cc00">
-	<span class="hint">Warning: Cognito Hazard</span>
-	<img src="/assets/2025-09-04/canopener_fake.png" style="max-width: 200px">
+<div class="spoiler" style="--cover: #ac9f67ff; text-align: center">
+	<span class="hint"><strong>Warning: Cognito Hazard</strong></span>
 	<img src="/assets/2025-09-04/doomguy_fake.png" style="max-width: 200px">
+	<img src="/assets/2025-09-04/canopener_fake.png" style="max-width: 200px">
 	<p><em>Then the robots invaded and took over all of the artists jobs</em></p>
 </div>
 
