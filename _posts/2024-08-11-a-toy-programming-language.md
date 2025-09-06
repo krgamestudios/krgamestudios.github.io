@@ -9,7 +9,7 @@ I kept working on it over time, and got it to a decently stable state, but the p
 
 So let's discuss version 2.
 
- <!--more-->
+<!--more-->
 
 I think having a clean break in terms of the code is a good idea - it'll allow me to build up the tests and tools as I go, as well as dropping support for features that really aren't needed after all. Starting from scratch is also basically necessary for replacing the memory model.
 

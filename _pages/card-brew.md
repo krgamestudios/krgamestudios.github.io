@@ -3,7 +3,9 @@ layout: page
 title: "Card Brew"
 ---
 
-This page contains an ever evolving list of interesting TCG design considerations, in no particular order.
+This page contains an ever evolving list of interesting TCG design considerations, in no particular order. I feel like I'll end up making a TCG at some point, so getting these down in writing is a good start.
+
+<!--more-->
 
 ## Meta
 
@@ -32,5 +34,4 @@ This page contains an ever evolving list of interesting TCG design consideration
 * Rulebooks
 * Updates, errata & banlists
 * Formats & rotations
-
 
