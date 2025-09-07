@@ -34,4 +34,6 @@ This page contains an ever evolving list of interesting TCG design consideration
 * Rulebooks
 * Updates, errata & banlists
 * Formats & rotations
-
+* Resource systems
+* Tributing monsters for bigger monsters
+* Does combat favour the defender (magic) or the attacker(yugioh)?
