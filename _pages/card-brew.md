@@ -10,6 +10,7 @@ This page contains an ever evolving list of interesting TCG design consideration
 ## Meta
 
 * Treating TCGs differently than other games?
+* Cobbling together mechanics vs being truly innovative
 
 ## Production
 
