@@ -11,6 +11,10 @@ This page contains an ever evolving list of interesting TCG design consideration
 
 * Treating TCGs differently than other games?
 * Cobbling together mechanics vs being truly innovative
+* Different kinds of wincons can set you apart:
+	* Exodia-style "assemble the pieces"
+	* Having 5 more of a certain resource than your opponent
+	* A shared central "tower" that you fight to control
 
 ## Production
 
