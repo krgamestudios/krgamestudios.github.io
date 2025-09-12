@@ -15,7 +15,10 @@ This page contains an ever evolving list of interesting TCG design consideration
 	* Exodia-style "assemble the pieces"
 	* Having 5 more of a certain resource than your opponent
 	* A shared central "tower" that you fight to control
-* Digital vs physical divide allowing different mechanics (upgrading or dusting, etc.)
+* Digital vs physical divide allowing different mechanics
+	* upgrading or dusting
+	* Tracking with tapped or untapped cards
+	* steps and phases
 
 ## Production
 
