@@ -11,6 +11,7 @@ This page contains an ever evolving list of interesting TCG design consideration
 
 * Themes, top-down or bottom-up design
 * Are TCGs treated differently than other games?
+* Why do TCGs have perpetual lifespans? 
 * Cobbling together mechanics vs being different for the sake of it
 * Different kinds of wincons can set you apart:
 	* Exodia-style "assemble the pieces"
