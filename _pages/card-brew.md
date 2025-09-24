@@ -21,6 +21,7 @@ This page contains an ever evolving list of interesting TCG design consideration
 	* upgrading or dusting
 	* Tracking with tapped or untapped cards
 	* steps and phases
+* Deckbuilding with limited point (like Warhammer 40k)
 
 ## Production
 
