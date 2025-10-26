@@ -45,18 +45,20 @@ When the players finally arrive at the altar, the cultist will succeed in summon
 ## Stat Blocks
 
 **Psychopomp End-Boss**
-> Description: A rebellious psychopomp who refuses to collect the dying mortals within his domain to weaken his master's influence.  
+> **Description**: A rebellious psychopomp who refuses to collect the dying mortals within his domain to weaken his master's influence.  
 >  
-> HP: 70                        //100  
-> AC: 16                        //18  
-> Scythe: 1d10, 10ft            //1d10, reach inf. +1d4 necrotic  
-    > hip: 1d4, reach inf.         //1d4+4, reach inf. necrotic  
+> **HP**: 70 *(or 100)*  
+> **AC**: 16 *(or 18)*  
+> **Scythe**: 1d10, 10ft *(or 1d10, reach inf. +1d4 necrotic)*  
+> **Whip**: 1d4, reach inf. *(or 1d4+4, reach inf., necrotic)*  
 > 
 > Can attack once with the scythe each turn.  
 > At half health and below, can attack with two whips.  
 > 
-> Legendary Action - Summon 2d6 Skeleton Minions  
-> Lair Action - All skeleton minions gain +1//+2 to their scratch attacks for the rest of the combat  
+> **Legendary Action** *(start of battle and end of round)*: Summon 2d6 Skeleton Minions.  
+> **Lair Action** *(start of round)*: All skeleton minions gain +1 *(or +2)* to their scratch attacks for the rest of the combat.  
+> 
+> Each "or" listed in parenthesese in this stat block corresponds to a failed ability check in the above sewer chase sequence.
 
 **Skeleton Minion**  
 > HP: 1  
