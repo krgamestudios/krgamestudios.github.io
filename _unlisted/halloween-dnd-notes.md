@@ -55,7 +55,7 @@ When the players finally arrive at the altar, the cultist will succeed in summon
 > At half health and below, can attack with two whips instead.  
 > 
 > **Legendary Action** *(start of battle and end of round)*: Summon 2d6 Skeleton Minions.  
-> **Lair Action** *(start of round)*: All skeleton minions gain +1 *(or +2)* to their scratch attacks for the rest of the combat.  
+> **Lair Action** *(start of round)*: All skeleton minions gain +1 *(or +2)* to their scratch attacks for the rest of the combat.  This has no effect on the first round.
 > 
 > Each "or" listed in parenthesese in this stat block corresponds to a failed ability check in the above sewer chase sequence.
 
