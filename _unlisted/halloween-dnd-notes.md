@@ -1,8 +1,7 @@
 ---
 layout: unlisted
+title: 2025 Halloween one-shot
 ---
-
-# 2025 Halloween one-shot
 
 These notes are rough, but more than enough for me to work with.
 
