@@ -60,14 +60,14 @@ When the players finally arrive at the altar, the cultist will succeed in summon
 > Each "or" listed in parenthesese in this stat block corresponds to a failed ability check in the above sewer chase sequence.
 
 **Skeleton Minion**  
-> HP: 1  
-> AC: 13  
-> Scratch: 1d4  
+> **HP**: 1  
+> **AC**: 13  
+> **Scratch**: 1d4  
 
 **Cultist**
-> HP: 20  
-> AC: 14  
-> Wicked Dagger: 1d4 Piercing, Throwable (20/60)  
+> **HP**: 20  
+> **AC**: 14  
+> **Wicked Dagger**: 1d4 Piercing, Throwable (20/60)  
 > 
-> Touch of Undying: When making a melee attack with the Wicked Dagger, add 1d4 necrotic damage.  
-> Endless Wickedness: After throwing the Wicked Dagger, the cultist will produce another from a hidden pouch.  
+> **Touch of Undying**: When making a melee attack with the Wicked Dagger, add 1d4 necrotic damage.  
+> **Endless Wickedness**: After throwing the Wicked Dagger, the cultist will produce another from a hidden pouch.  
