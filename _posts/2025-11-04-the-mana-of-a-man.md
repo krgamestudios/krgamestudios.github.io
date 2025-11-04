@@ -14,7 +14,7 @@ Let me tell you about my experiences with [The Mana World](https://www.themanawo
 
 ---
 
-The Mana World is an open source 2d MMORPG, which dates back over two decades as an attempt to replicate the gameplay of [Ragnarok Online](https://en.wikipedia.org/wiki/Ragnarok_Online), but has since grown into its own thing. The game is run by [Manasource](https://manasource.org/), which describes itself as "a federation of open source game projects". It has a dense history of forked software and game servers, and there's currently four primary games that exist under its umbrella which share varying amounts of assets and code.
+The Mana World is an open source 2d MMORPG, which dates back over two decades as an online game based on the Secret of Mana series[^1], but has since grown into its own thing. The game is run by [Manasource](https://manasource.org/), which describes itself as "a federation of open source game projects". It has a dense history of forked software and game servers, and there's currently four primary games that exist under its umbrella which share varying amounts of assets and code.
 
 I'll be focusing on The Mana World in this post, as its what I'm most familiar with. I knew about The Mana World and the related projects as far back as 2013, and I'd even emailed the lead developer a couple times looking for advice, as I was working on my own MMO-style game called Tortuga (the less said about that, the better, though I may cover it at some point).
 
@@ -37,5 +37,9 @@ I've also loved learning about the [DSL](https://en.wikipedia.org/wiki/Domain-sp
 Finally, I love the community - there's never more than a couple dozen accounts online at once, but it's immensely fun fighting swarms of monsters that the GMs periodically summon alongside the established players. I also can't undersell how much content is in this game - I'm still finding new areas as I level my first character, and I'm seriously curious as to what can still be hidden in the corners of the world.
 
 Anyway, I felt I should post some kind of update to my site, just to say that I haven't forgotten it entirely - I've simpy found something awesome, and I want to see where this goes.
+
+---
+
+[^1]: This post originally said The Mana World was an attempt to replicate the gameplay of [Ragnarok Online](https://en.wikipedia.org/wiki/Ragnarok_Online), but bjørn gave this correction. My misunderstanding comes from the server software originating as an early fork of eAthena, which was an emulator for Ragnarok Online private servers.
 
 *When I'm not hunting fluffies to make furry boots, I can usually be found on [Bluesky](https://bsky.app/profile/krgamestudios.bsky.social) or [Discord](https://discord.gg/5KwPFdTBZp). If you'd like to show your support, I also have a [Patreon](https://www.patreon.com/c/krgamestudios), and I'd love a Coffee via [Ko-fi](https://ko-fi.com/krgamestudios).*
