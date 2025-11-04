@@ -45,5 +45,8 @@ footer {
 .footnotes * {
 	font-size: 11px;
 	margin: 0;
+}
+
+.footnotes > * {
 	padding-inline-start: 20px;
 }
