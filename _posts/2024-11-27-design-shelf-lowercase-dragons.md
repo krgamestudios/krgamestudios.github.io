@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: gamedev shelf ttrpg
+tags: gamedev design-shelf ttrpg
 title: "Design Shelf: Lowercase Dragons"
 ---
 

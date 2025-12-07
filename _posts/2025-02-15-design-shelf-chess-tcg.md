@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: gamedev shelf tcg
+tags: gamedev design-shelf tcg
 title: "Design Shelf: Chess TCG"
 ---
 
