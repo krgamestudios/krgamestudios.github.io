@@ -22,4 +22,5 @@ collections:
 plugins:
 - jekyll-remote-theme
 - jekyll-seo-tag
+- jekyll-redirect-from
 
