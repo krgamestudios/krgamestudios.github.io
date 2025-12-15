@@ -19,8 +19,8 @@ collections:
     output: true
     permalink: /:collection/:name
   teasers:
-    output: false
-    
+    output: true
+
 
 plugins:
 - jekyll-remote-theme
