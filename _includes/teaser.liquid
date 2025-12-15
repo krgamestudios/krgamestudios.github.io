@@ -1,4 +1,3 @@
 
-<div class="mobile hide">
-{% include teasers/stepwise.html %}
-</div>
+{% assign random = site.time | date: "%s" | modulo: site.posts.size %}
+{{ include site.teasers[random] }}

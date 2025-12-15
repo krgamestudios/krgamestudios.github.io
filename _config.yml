@@ -18,6 +18,9 @@ collections:
   unlisted:
     output: true
     permalink: /:collection/:name
+  teasers:
+    output: false
+    
 
 plugins:
 - jekyll-remote-theme
