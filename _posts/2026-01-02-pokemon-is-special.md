@@ -55,10 +55,10 @@ Some other random notes:
 
 * The "con-artist" who sells you a Magikarp for 500P is in a Pokémon Center just outside of Mt. Moon, and there's a TM12 just inside the door for Water Gun. It's only 40 damage, but it's a STAB move with 100% accuracy, the only one available to Gyarados. If you're willing to put in the time and effort, this is the earliest point where Gyarados is available.
 * Poison types are remarkably prevalant, and I've always wondered why Bulbasaur is part poison. Now I realize that this removes the natural weakness that grass suffers, and makes the early-game actually reasonable for players who choose Bulbasaur as their starter.
-* Red and Blue both have Caterpie and Weedle, while Yellow only had Caterpie. I never knew this, as I played Yellow as a kid - in fact, it's quite fun finding classic Pokémon that I enver had as a kid.
+* Red and Blue both have Caterpie and Weedle, while Yellow only had Caterpie. I never knew this, as I played Yellow as a kid - in fact, it's quite fun finding classic Pokémon that I didn't see the first time through Kanto.
 
 ---
 
-I've just finished the second gym and cleared Nugget Bridge, so I'll leave this article for now. There's a lot of aspects of gen 1 that make me scratch my head, but now that I've gone back and played it, I'm starting to see the brilliant logic behind it. I'm looking forward to what's to come.
+I've just finished the second gym and cleared Nugget Bridge, so I'll leave this here for now. There's a lot of aspects of gen 1 that make me scratch my head, but now that I've gone back and played it, I'm starting to see the brilliant logic behind it. I'm looking forward to what's to come.
 
 *When I'm not playing with my Pokéballs, I can usually be found on [Bluesky](https://bsky.app/profile/krgamestudios.bsky.social) or [Discord](https://discord.gg/5KwPFdTBZp). If you'd like to show your support, I also have a [Patreon](https://www.patreon.com/c/krgamestudios), and I'd love a Coffee via [Ko-fi](https://ko-fi.com/krgamestudios).*
