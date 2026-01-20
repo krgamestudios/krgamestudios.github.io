@@ -30,8 +30,8 @@ Exploring the ship was a fun experience, enhanced by the fact that once you've f
 
 <div style="text-align: center">
 	<img src="/assets/2026-01-20/le-waiter.png" style="max-width: 200px">
-	<img src="/assets/2026-01-20/looker1.png.png" style="max-width: 200px">
-	<img src="/assets/2026-01-20/looker2.png.png" style="max-width: 200px">
+	<img src="/assets/2026-01-20/looker1.png" style="max-width: 200px">
+	<img src="/assets/2026-01-20/looker2.png" style="max-width: 200px">
 	<p><em>I was serious about building on what came before.</em></p>
 </div>
 
@@ -54,8 +54,8 @@ Time for some rapid-fire notes that don't need a deeper dive:
 
 * The Daycare existed in gen 1, but could only hold one Pokémon, and was mainly used for levelling the more awkward Pokémon that couldn't contribute to your party directly.
 * There is exactly one Farfetch'd in gen 1, and he's stuck with the nickname "DUX". My guy deserved better.
-* The critical path does a weird cross-shape through the underground paths below Saffron City: Cerulean City -> Underground Path -> 	
-Vermilion City -> back through Underground Path -> Cerulean City -> Rock Tunnel -> Lavender Town -> the other Underground Path -> Celadon City, where you can finally buy a drink for the gate guards.
+* The critical path does a weird cross-shape through the underground paths below Saffron City: **Cerulean City** -> *Underground Path* -> 	
+**Vermilion City** -> *back through Underground Path* -> **Cerulean City** -> *Rock Tunnel* -> **Lavender Town** -> *the other Underground Path* -> **Celadon City**, where you can finally buy a drink for the gate guards.
 * Lavender Town, with all the ghosts and such, is the first place you can buy Revives.
 * The sprites on the Game Corner's slot machines are unique, I haven't seen them used elsewhere in the game.
 
