@@ -61,4 +61,6 @@ Some other random notes:
 
 I've just finished the second gym and cleared Nugget Bridge, so I'll leave this here for now. There's a lot of aspects of gen 1 that make me scratch my head, but now that I've gone back and played it, I'm starting to see the brilliant logic behind it. I'm looking forward to what's to come.
 
+*Continued in [Pokémon is Technical](https://krgamestudios.com/posts/2026-01-20-pokemon-is-technical)...*
+
 *When I'm not playing with my Pokéballs, I can usually be found on [Bluesky](https://bsky.app/profile/krgamestudios.bsky.social) or [Discord](https://discord.gg/5KwPFdTBZp). If you'd like to show your support, I also have a [Patreon](https://www.patreon.com/c/krgamestudios), and I'd love a Coffee via [Ko-fi](https://ko-fi.com/krgamestudios).*
