@@ -4,7 +4,7 @@ tags: gaming pokemon review
 title: "Pokémon is Special"
 ---
 
-Each Pokémon generation changed something fundemental about Pokémon as a whole. That's not surprising of course, it would be surprising if it didn't. But there's something about looking back at the older games that gives an incredible insight to how the devs envisioned things in the mid-90s, and how the games were crafted. The gen 1 games in particular are notoroiously buggy, but that seems to have overshadowed just how well these games were designed. Yesterday, I started a playthrough of Pokémon Red alongside my brother (who is playing Pokémon Blue), and I want to touch on a few things I've found that are legitimately surprising and clever.
+Each Pokémon generation changed something fundemental about Pokémon as a whole. That's not surprising of course, it would be surprising if it didn't. But there's something about looking back at the older games that gives an incredible insight to how the devs envisioned things in the mid-90s, and how the games were crafted. The gen 1 games in particular are notoriously buggy, but that seems to have overshadowed just how well these games were designed. Yesterday, I started a playthrough of Pokémon Red alongside my brother (who is playing Pokémon Blue), and I want to touch on a few things I've found that are legitimately surprising and clever.
 
 Spoiler warning for the early sections of Pokémon Red and Blue, but at this point I think you know most of it already.
 
