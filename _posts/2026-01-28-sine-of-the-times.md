@@ -8,7 +8,7 @@ I'm frustrated as hell by NPM for absolutely no reason, so I'm gonna explain why
 
 <!--more-->
 
-I received a dependabot alert on GitHub that a library I wrote and maintain, [sineQL](https://github.com/Ratstail91/sineQL), had one of its dependnecies flagged with a vulnerability - specifically, lodash. Nothing out of the ordinary here, other than the fact that sineQL has ZERO dependencies - in fact, the only library included is jest as part of the CI testing suite.
+I received a dependabot alert on GitHub that a library I wrote and maintain, [sineQL](https://github.com/Ratstail91/sineQL), had one of its dependencies flagged with a vulnerability - specifically, lodash. Nothing out of the ordinary here, other than the fact that sineQL has ZERO dependencies - in fact, the only library included is jest as part of the CI testing suite.
 
 Side note: *Why the hell is my `package-lock.json` over 4400 lines???*
 
