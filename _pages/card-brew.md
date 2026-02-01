@@ -69,3 +69,9 @@ Here's some basic example cards:
 
 [^1]: Stratagems would cost the same amount to place face-down regardless of effect.
 [^2]: If all cards are paid with silver, where do factions and other deckbuilding restrictions come from? Could a Star Realms style mechanic work?
+
+## Game Idea: Robot Engine Builder?
+
+Construct a series of "Real Robot" mechas from constituent parts, like a chassis + guns + jump pack, etc. You build them in a "build row" and move them to the "deploy row", and they can only attack from the deploy row, or you could retreat for repairs.
+
+This sounds like Shard Bugs: https://youtu.be/uD4QsNODP1E?si=GyNc0g-11CDjQF3a&t=1020
