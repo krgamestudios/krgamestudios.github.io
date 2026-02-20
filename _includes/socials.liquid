@@ -6,5 +6,18 @@
 		<li><a href="https://bsky.app/profile/krgamestudios.bsky.social">Bluesky</a></li>
 		<li><a href="https://github.com/krgamestudios">Studio GitHub</a></li>
 		<li><a href="https://github.com/Ratstail91">Personal GitHub</a></li>
+		<li onclick="chicken();"><span id="chirp">Cluck me!</span> 🐔</li>
 	</ul>
 </div>
+<script type="text/javascript">
+	function chicken() {
+		let options = [
+			"What the cluck?",
+			"Go cluck yourself!",
+			"I don't give a cluck!",
+			"Cluck off!",
+			"That farmer clucked me over!"
+		];
+		document.getElementById("chirp").textContent = options[ Math.floor(options.length * Math.random()) ];
+	}
+</script>
