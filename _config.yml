@@ -4,7 +4,6 @@ logo: logo_400x400.png
 author: Kayne Ruse (Ratstail91)
 
 timezone: Australia/Sydney
-remote_theme: pages-themes/minimal@v0.2.0
 excerpt_separator: <!--more-->
 #show_drafts: true
 
@@ -20,7 +19,5 @@ collections:
     permalink: /:collection/:name
 
 plugins:
-- jekyll-remote-theme
 - jekyll-seo-tag
-- jekyll-redirect-from
 

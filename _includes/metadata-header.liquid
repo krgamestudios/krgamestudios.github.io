@@ -1,0 +1,21 @@
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	{% seo %}
+
+	<link rel="shortcut icon" type="image/png" href="favicon.ico">
+	<link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+	<link rel="stylesheet" href="{{ "/assets/css/spoiler.css?v=" | append: site.github.build_revision | relative_url }}">
+
+	{% comment %} <script src="{{ "/assets/js/heckin-search.js" | relative_url }}"></script> {% endcomment %}
+
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-V42CQ55YHS"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'G-V42CQ55YHS');
+	</script>
+</head>

@@ -1,0 +1,154 @@
+/* Initial styles borrowed from https://github.com/pages-themes/minimal and HEAVILY customized */
+body {
+  background-color: #fff;
+  padding:50px;
+  font: 14px/1.5 Helvetica, Arial, sans-serif;
+  font-weight:400;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color:#222;
+  margin:0 0 20px;
+}
+
+p, ul, ol, table, pre, dl {
+  margin:0 0 20px;
+}
+
+h1, h2, h3 {
+  line-height:1.1;
+}
+
+h1 {
+  font-size:28px;
+}
+
+a {
+  color:#267CB9;
+  text-decoration:none;
+}
+
+a:hover, a:focus {
+  color:#069;
+  font-weight: bold;
+}
+
+blockquote {
+  border-left:1px solid #e5e5e5;
+  margin:0;
+  padding:0 0 0 20px;
+  font-style:italic;
+}
+
+code, pre {
+  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  color:#333;
+}
+
+pre {
+  padding: 8px 15px;
+  background: #c3e3fd;
+  border-radius: 5px;
+  border: 1px solid #e5e5e5;
+  overflow-x: auto;
+}
+
+table {
+  width:100%;
+  border-collapse:collapse;
+}
+
+th, td {
+  text-align:left;
+  padding:5px 10px;
+  border-bottom:1px solid #e5e5e5;
+}
+
+th {
+  color:#444;
+}
+
+td {
+  color:#444;
+  font-weight:700;
+}
+
+img {
+  max-width:100%;
+}
+
+.layout-wrapper {
+  max-width:1000px;
+  margin:0 auto;
+}
+
+.layout-sidebar {
+  max-width:250px;
+  float:left;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
+.layout-content {
+  max-width: 710px;
+  float: right;
+}
+
+footer {
+  float: right;
+  width:auto;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
+small {
+  font-size:11px;
+}
+
+hr {
+  border:0;
+  background:#ebbebe;
+  height:1px;
+  margin:0 0 20px;
+}
+
+/* hide or show based on screen size */
+.mobile.show {
+	display: none;
+}
+
+@media screen and (max-width: 480px) {
+	.mobile.hide {
+		display: none;
+	}
+
+	.mobile.show {
+		display: unset;
+	}
+}
+
+.tablet.show {
+	display: none;
+}
+
+@media screen and (max-width: 768px) {
+	.tablet.hide {
+		display: none;
+	}
+
+	.tablet.show {
+		display: unset;
+	}
+}
+
+/* footnote magic */
+.footnotes {
+	margin-bottom: 1em;
+}
+
+.footnotes * {
+	font-size: 11px;
+	margin: 0;
+}
+
+.footnotes > * {
+	padding-inline-start: 20px;
+}
