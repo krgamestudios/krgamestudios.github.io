@@ -123,6 +123,10 @@ hr {
 	.mobile.show {
 		display: unset;
 	}
+
+  .layout-sidebar, .layout-content, footer {
+    float: initial;
+  }
 }
 
 .tablet.show {
@@ -137,6 +141,10 @@ hr {
 	.tablet.show {
 		display: unset;
 	}
+
+  .layout-sidebar, .layout-content, footer {
+    float: initial;
+  }
 }
 
 /* footnote magic */
