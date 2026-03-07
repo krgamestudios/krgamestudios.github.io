@@ -49,14 +49,14 @@ This is only a snippet, but this file defines five columns: "ID", "CommonVar", "
 This snippet from `clientdata/quests/kaizei/furquest.xml` looks a bit ominous, but you can see it linked to the quest ID 25 from `quest-log.txt`.
 
 <div style="text-align: center">
-	<img src="/assets/2026-03-07/screenshot-01.png" style="max-width: 200px">
+	<img src="/assets/2026-03-07/screenshot-01.png" style="max-height: 300px">
 	<p><em>The fabulous Agostine begins the quest line thirsty, as did his artist, it seems.</em></p>
 </div>
 
 You can also see the quest's name in the list is controlled by the `name` attribute, while the title within the dialog box is defined by the `<name>` tag. You can also set specific values (for CommonVar) which make each entry visible within the quest log as either `incomplete` or `complete`.
 
 <div style="text-align: center">
-	<img src="/assets/2026-03-07/screenshot-02.png" style="max-width: 200px">
+	<img src="/assets/2026-03-07/screenshot-02.png" style="max-height: 300px">
 	<p><em>Will he be the Tumblr Sexyman 2026?</em></p>
 </div>
 
