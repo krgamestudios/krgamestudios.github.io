@@ -98,7 +98,7 @@ L_Refreshments_4:
     set QL_FURQUEST, 1;
     goto L_Close;
 
-//snip - this extra close lable is superfluous, but was left in place for unrelated reasons
+//snip - this label was left in for unrelated reasons
 L_Close:
     close;
 }
