@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: unlisted
 title: "Card Brew"
 ---
 
