@@ -169,7 +169,7 @@ Finally, we set the opaque's callback and inject each opaque into the VM's scope
 void initEngineAPI(Toy_VM* vm) {
 	Toy_setOpaqueAttributeHandler(dispatchOpaqueAttributes);
 
-	DECLARE_OPAQUE("Keybaord", &keyboardData, vm->scope, &vm->memoryBucket);
+	DECLARE_OPAQUE("Keyboard", &keyboardData, vm->scope, &vm->memoryBucket);
 	DECLARE_OPAQUE("KeyPressed", &keyPressedData, vm->scope, &vm->memoryBucket);
 	DECLARE_OPAQUE("KeyReleased", &keyReleasedData, vm->scope, &vm->memoryBucket);
 
